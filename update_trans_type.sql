@@ -1,6 +1,5 @@
--- Script untuk mengupdate TRANS_TYPE berdasarkan BATCH_ID dan urutan
--- Baris dengan TRANS_TYPE = 'SV_CREG' atau 'SV_TOP' tetap sama
--- Baris berikutnya dengan BATCH_ID yang sama akan diupdate dengan prefix yang sesuai
+-- Script dinamis untuk mengupdate TRANS_TYPE berdasarkan BATCH_ID
+-- Otomatis menambahkan prefix dari base transaction (SV_CREG/SV_TOP) ke transaksi LOD
 
 WITH RankedData AS (
     SELECT 
@@ -30,22 +29,8 @@ UPDATE t
 SET TRANS_TYPE = 
     CASE 
         WHEN r.rn = 1 THEN t.TRANS_TYPE  -- Baris pertama dalam batch tetap sama
-        WHEN b.base_trans_type = 'SV_CREG' THEN 
-            CASE 
-                WHEN t.TRANS_TYPE = 'LOD-002' THEN 'SV_CREG-LOD-002'
-                WHEN t.TRANS_TYPE = 'LOD-003' THEN 'SV_CREG-LOD-003'
-                WHEN t.TRANS_TYPE = 'LOD-013' THEN 'SV_CREG-LOD-013'
-                WHEN t.TRANS_TYPE = 'LOD-024' THEN 'SV_CREG-LOD-024'
-                ELSE t.TRANS_TYPE
-            END
-        WHEN b.base_trans_type = 'SV_TOP' THEN 
-            CASE 
-                WHEN t.TRANS_TYPE = 'LOD-002' THEN 'SV_TOP-LOD-002'
-                WHEN t.TRANS_TYPE = 'LOD-003' THEN 'SV_TOP-LOD-003'
-                WHEN t.TRANS_TYPE = 'LOD-013' THEN 'SV_TOP-LOD-013'
-                WHEN t.TRANS_TYPE = 'LOD-024' THEN 'SV_TOP-LOD-024'
-                ELSE t.TRANS_TYPE
-            END
+        WHEN b.base_trans_type IS NOT NULL AND t.TRANS_TYPE LIKE 'LOD-%' THEN 
+            b.base_trans_type + '-' + t.TRANS_TYPE  -- Dynamic concatenation
         ELSE t.TRANS_TYPE
     END
 FROM GLIFE.dbo.APPLICATION_SAVING_TRX t
