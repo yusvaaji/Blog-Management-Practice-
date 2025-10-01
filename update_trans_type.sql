@@ -1,49 +1,85 @@
 -- Script SELECT dinamis untuk menampilkan TRANS_TYPE yang sudah dimodifikasi
 -- Menambahkan prefix dari base transaction (SV_CREG/SV_TOP) ke transaksi LOD tanpa mengubah data asli
+-- Menggunakan SEQ untuk menentukan urutan yang benar dalam batch
 
-WITH RankedData AS (
-    SELECT 
-        REGNO,
-        SEQ,
-        BATCH_ID,
-        TRANS_TYPE,
-        ROW_NUMBER() OVER (
-            PARTITION BY REGNO, BATCH_ID 
-            ORDER BY SEQ
-        ) as rn
-    FROM GLIFE.dbo.APPLICATION_SAVING_TRX 
-    WHERE REGNO = 'U20250901141818467004'
-),
-BaseTransTypes AS (
+WITH BaseTransTypes AS (
     SELECT 
         REGNO,
         BATCH_ID,
         TRANS_TYPE as base_trans_type,
-        MIN(SEQ) as min_seq
+        SEQ as base_seq
     FROM GLIFE.dbo.APPLICATION_SAVING_TRX 
     WHERE REGNO = 'U20250901141818467004'
         AND TRANS_TYPE IN ('SV_CREG', 'SV_TOP')
-    GROUP BY REGNO, BATCH_ID, TRANS_TYPE
+),
+LODTransactions AS (
+    SELECT 
+        t.REGNO,
+        t.SEQ,
+        t.BATCH_ID,
+        t.TRANS_TYPE,
+        t.FUND_CODE,
+        t.THEDATE,
+        t.ER_AMOUNT,
+        t.EE_AMOUNT,
+        t.DC,
+        t.USERBY,
+        t.USERDATE,
+        b.base_trans_type,
+        b.base_seq,
+        ROW_NUMBER() OVER (
+            PARTITION BY t.REGNO, t.BATCH_ID, b.base_trans_type 
+            ORDER BY t.SEQ
+        ) as lod_sequence
+    FROM GLIFE.dbo.APPLICATION_SAVING_TRX t
+    INNER JOIN BaseTransTypes b ON t.REGNO = b.REGNO AND t.BATCH_ID = b.BATCH_ID
+    WHERE t.REGNO = 'U20250901141818467004'
+        AND t.TRANS_TYPE LIKE 'LOD-%'
+        AND t.SEQ > b.base_seq  -- LOD harus setelah base transaction
 )
 SELECT 
-    t.REGNO,
-    t.SEQ,
-    t.BATCH_ID,
+    REGNO,
+    SEQ,
+    BATCH_ID,
     CASE 
-        WHEN r.rn = 1 THEN t.TRANS_TYPE  -- Baris pertama dalam batch tetap sama
-        WHEN b.base_trans_type IS NOT NULL AND t.TRANS_TYPE LIKE 'LOD-%' THEN 
-            b.base_trans_type + '-' + t.TRANS_TYPE  -- Dynamic concatenation
-        ELSE t.TRANS_TYPE
+        WHEN TRANS_TYPE IN ('SV_CREG', 'SV_TOP') THEN TRANS_TYPE  -- Base transaction tetap sama
+        WHEN TRANS_TYPE LIKE 'LOD-%' AND base_trans_type IS NOT NULL THEN 
+            base_trans_type + '-' + TRANS_TYPE  -- Dynamic concatenation
+        ELSE TRANS_TYPE
     END as TRANS_TYPE,
-    t.FUND_CODE,
-    t.THEDATE,
-    t.ER_AMOUNT,
-    t.EE_AMOUNT,
-    t.DC,
-    t.USERBY,
-    t.USERDATE
-FROM GLIFE.dbo.APPLICATION_SAVING_TRX t
-INNER JOIN RankedData r ON t.REGNO = r.REGNO AND t.SEQ = r.SEQ
-LEFT JOIN BaseTransTypes b ON t.REGNO = b.REGNO AND t.BATCH_ID = b.BATCH_ID
-WHERE t.REGNO = 'U20250901141818467004'
-ORDER BY t.SEQ;
+    FUND_CODE,
+    THEDATE,
+    ER_AMOUNT,
+    EE_AMOUNT,
+    DC,
+    USERBY,
+    USERDATE
+FROM (
+    -- Base transactions (SV_CREG, SV_TOP)
+    SELECT 
+        REGNO, SEQ, BATCH_ID, TRANS_TYPE, FUND_CODE, THEDATE, 
+        ER_AMOUNT, EE_AMOUNT, DC, USERBY, USERDATE, NULL as base_trans_type
+    FROM GLIFE.dbo.APPLICATION_SAVING_TRX 
+    WHERE REGNO = 'U20250901141818467004'
+        AND TRANS_TYPE IN ('SV_CREG', 'SV_TOP')
+    
+    UNION ALL
+    
+    -- LOD transactions with prefix
+    SELECT 
+        REGNO, SEQ, BATCH_ID, TRANS_TYPE, FUND_CODE, THEDATE, 
+        ER_AMOUNT, EE_AMOUNT, DC, USERBY, USERDATE, base_trans_type
+    FROM LODTransactions
+    
+    UNION ALL
+    
+    -- Other transactions (SV_MOF, COI, etc.)
+    SELECT 
+        REGNO, SEQ, BATCH_ID, TRANS_TYPE, FUND_CODE, THEDATE, 
+        ER_AMOUNT, EE_AMOUNT, DC, USERBY, USERDATE, NULL as base_trans_type
+    FROM GLIFE.dbo.APPLICATION_SAVING_TRX 
+    WHERE REGNO = 'U20250901141818467004'
+        AND TRANS_TYPE NOT IN ('SV_CREG', 'SV_TOP')
+        AND TRANS_TYPE NOT LIKE 'LOD-%'
+) combined
+ORDER BY SEQ;
