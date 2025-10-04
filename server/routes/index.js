@@ -11,8 +11,10 @@ route.get(mainEndpoint, (req, res) => {
 // Routes
 const userRoutes = require("./user");
 const postRoutes = require("./post");
+const ktpRoutes = require("./ktp");
 // Endpoints
 route.use(`${mainEndpoint}/users`, userRoutes);
 route.use(`${mainEndpoint}/posts`, postRoutes);
+route.use(`${mainEndpoint}/ktp`, ktpRoutes);
 
 module.exports = route;
