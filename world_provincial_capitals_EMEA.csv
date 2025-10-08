@@ -1,0 +1,541 @@
+Country,Country_Code,State_or_Province,Province_Capital,Country_Capital,Business_Region,UN_Sub_Region,Latitude,Longitude,Major_Cities,Major_Cities_LatLon
+Angola,AO,Bengo,Ambriz,Luanda,EMEA,17,-7.85740000,13.12510000,Ambriz;Bula Atumba;Caxito,"Ambriz|(-7.85740000,13.12510000);Bula Atumba|(-7.31170000,14.31470000);Caxito|(-8.57848000,13.66425000)"
+Angola,AO,Benguela,Benguela,Luanda,EMEA,17,-12.57626000,13.40547000,Baía Farta;Balombo;Benguela,"Baía Farta|(-12.57660000,13.47760000);Balombo|(-12.90460000,13.59590000);Benguela|(-12.57626000,13.40547000)"
+Angola,AO,Bié,Camacupa,Luanda,EMEA,17,-12.01667000,17.48333000,Camacupa;Catabola;Chissamba,"Camacupa|(-12.01667000,17.48333000);Catabola|(-12.15000000,17.28333000);Chissamba|(-12.16667000,17.33333000)"
+Angola,AO,Cabinda,Cabinda,Luanda,EMEA,17,-5.55000000,12.20000000,Cabinda,"Cabinda|(-5.55000000,12.20000000)"
+Angola,AO,Cuando Cubango,Menongue,Luanda,EMEA,17,-14.65850000,17.69099000,Menongue,"Menongue|(-14.65850000,17.69099000)"
+Angola,AO,Cuanza,Quibala,Luanda,EMEA,17,-10.73366000,14.97995000,Quibala;Sumbe;Uacu Cungo,"Quibala|(-10.73366000,14.97995000);Sumbe|(-11.20605000,13.84371000);Uacu Cungo|(-11.35669000,15.11719000)"
+Angola,AO,Cuanza Norte,Camabatela,Luanda,EMEA,17,-8.18812000,15.37495000,Camabatela;N’dalatando,"Camabatela|(-8.18812000,15.37495000);N’dalatando|(-9.29782000,14.91162000)"
+Angola,AO,Cunene,Ondjiva,Luanda,EMEA,17,-17.06667000,15.73333000,Ondjiva,"Ondjiva|(-17.06667000,15.73333000)"
+Angola,AO,Huambo,Huambo,Luanda,EMEA,17,-12.77611000,15.73917000,Caála;Chela;Huambo,"Caála|(-12.85250000,15.56056000);Chela|(-12.30261000,15.43358000);Huambo|(-12.77611000,15.73917000)"
+Angola,AO,Huíla,Caconda,Luanda,EMEA,17,-13.73333000,15.06667000,Caconda;Caluquembe;Chibia,"Caconda|(-13.73333000,15.06667000);Caluquembe|(-13.92093000,14.53476000);Chibia|(-15.23657000,13.88468000)"
+Angola,AO,Luanda,Luanda,Luanda,EMEA,17,-8.83682000,13.23432000,Belas;Cacuaco;Cazenga,"Belas|(-9.06875000,13.16072000);Cacuaco|(-8.82960000,13.29730000);Cazenga|(-8.82860000,13.26650000)"
+Angola,AO,Lunda Norte,Lucapa,Luanda,EMEA,17,-8.68337000,20.27045000,Lucapa,"Lucapa|(-8.68337000,20.27045000)"
+Angola,AO,Lunda Sul,Cazaji,Luanda,EMEA,17,-11.06715000,20.70148000,Cazaji;Saurimo,"Cazaji|(-11.06715000,20.70148000);Saurimo|(-9.66078000,20.39155000)"
+Angola,AO,Malanje,Malanje,Luanda,EMEA,17,-9.54015000,16.34096000,Malanje,"Malanje|(-9.54015000,16.34096000)"
+Angola,AO,Moxico,Léua,Luanda,EMEA,17,-11.65000000,20.45000000,Léua;Luau;Luena,"Léua|(-11.65000000,20.45000000);Luau|(-10.70727000,22.22466000);Luena|(-11.78333000,19.91667000)"
+Angola,AO,Uíge,Uíge,Luanda,EMEA,17,-7.60874000,15.06131000,Uíge,"Uíge|(-7.60874000,15.06131000)"
+Angola,AO,Zaire,Mbanza Congo,Luanda,EMEA,17,-6.26703000,14.24010000,Mbanza Congo;N'zeto;Soio,"Mbanza Congo|(-6.26703000,14.24010000);N'zeto|(-7.23116000,12.86660000);Soio|(-6.13490000,12.36894000)"
+Anguilla,AI,Blowing Point,,The Valley,EMEA,29,,,,
+Anguilla,AI,East End,,The Valley,EMEA,29,,,,
+Anguilla,AI,George Hill,,The Valley,EMEA,29,,,,
+Anguilla,AI,Island Harbour,,The Valley,EMEA,29,,,,
+Anguilla,AI,North Hill,,The Valley,EMEA,29,,,,
+Anguilla,AI,North Side,,The Valley,EMEA,29,,,,
+Anguilla,AI,Sandy Ground,,The Valley,EMEA,29,,,,
+Anguilla,AI,Sandy Hill,,The Valley,EMEA,29,,,,
+Anguilla,AI,South Hill,,The Valley,EMEA,29,,,,
+Anguilla,AI,Stoney Ground,,The Valley,EMEA,29,,,,
+Anguilla,AI,The Farrington,,The Valley,EMEA,29,,,,
+Anguilla,AI,The Quarter,,The Valley,EMEA,29,,,,
+Anguilla,AI,The Valley,,The Valley,EMEA,29,,,,
+Anguilla,AI,West End,,The Valley,EMEA,29,,,,
+Aruba,AW,Noord,,Oranjestad,EMEA,29,,,,
+Aruba,AW,Oranjestad,,Oranjestad,EMEA,29,,,,
+Aruba,AW,Oranjestad East,,Oranjestad,EMEA,29,,,,
+Aruba,AW,Oranjestad West,,Oranjestad,EMEA,29,,,,
+Aruba,AW,Paradera,,Oranjestad,EMEA,29,,,,
+Aruba,AW,San Nicolaas Noord,,Oranjestad,EMEA,29,,,,
+Aruba,AW,San Nicolaas Zuid,,Oranjestad,EMEA,29,,,,
+Aruba,AW,Santa Cruz,,Oranjestad,EMEA,29,,,,
+Aruba,AW,Savaneta,,Oranjestad,EMEA,29,,,,
+Belize,BZ,Belize,Belize City,Belmopan,EMEA,13,17.49952000,-88.19756000,Belize City;San Pedro,"Belize City|(17.49952000,-88.19756000);San Pedro|(17.91598000,-87.96590000)"
+Belize,BZ,Cayo,Belmopan,Belmopan,EMEA,13,17.25000000,-88.76667000,Belmopan;Benque Viejo el Carmen;San Ignacio,"Belmopan|(17.25000000,-88.76667000);Benque Viejo el Carmen|(17.07500000,-89.13917000);San Ignacio|(17.15880000,-89.06960000)"
+Belize,BZ,Corozal,Corozal,Belmopan,EMEA,13,18.39375000,-88.38849000,Corozal,"Corozal|(18.39375000,-88.38849000)"
+Belize,BZ,Orange Walk,Orange Walk,Belmopan,EMEA,13,18.08124000,-88.56328000,Hopelchén;Orange Walk;Shipyard,"Hopelchén|(17.80000000,-89.10000000);Orange Walk|(18.08124000,-88.56328000);Shipyard|(17.89382000,-88.65452000)"
+Belize,BZ,Stann Creek,Dangriga,Belmopan,EMEA,13,16.96970000,-88.23313000,Dangriga;Placencia,"Dangriga|(16.96970000,-88.23313000);Placencia|(16.51419000,-88.36647000)"
+Belize,BZ,Toledo,Punta Gorda,Belmopan,EMEA,13,16.09835000,-88.80970000,Punta Gorda,"Punta Gorda|(16.09835000,-88.80970000)"
+Botswana,BW,Central,Gobojango,Gaborone,EMEA,18,-21.83270000,28.72882000,Gobojango;Gweta;Kalamare,"Gobojango|(-21.83270000,28.72882000);Gweta|(-20.18333000,25.23333000);Kalamare|(-22.93369000,26.57032000)"
+Botswana,BW,Ghanzi,Ghanzi,Gaborone,EMEA,18,-21.69785000,21.64581000,Dekar;Ghanzi,"Dekar|(-21.53333000,21.93333000);Ghanzi|(-21.69785000,21.64581000)"
+Botswana,BW,Kgalagadi,Hukuntsi,Gaborone,EMEA,18,-23.99880000,21.77962000,Hukuntsi;Kang;Lehututu,"Hukuntsi|(-23.99880000,21.77962000);Kang|(-23.67518000,22.78762000);Lehututu|(-23.96667000,21.86667000)"
+Botswana,BW,Kgatleng,Bokaa,Gaborone,EMEA,18,-24.45000000,26.01667000,Bokaa;Mmathubudukwane;Mochudi,"Bokaa|(-24.45000000,26.01667000);Mmathubudukwane|(-24.60000000,26.43333000);Mochudi|(-24.41667000,26.15000000)"
+Botswana,BW,Kweneng,Botlhapatlou,Gaborone,EMEA,18,-24.02591000,25.48976000,Botlhapatlou;Dutlwe;Gabane,"Botlhapatlou|(-24.02591000,25.48976000);Dutlwe|(-23.98333000,23.90000000);Gabane|(-24.66667000,25.78222000)"
+Botswana,BW,Ngamiland,,Gaborone,EMEA,18,,,,
+Botswana,BW,North-East,Dukwe,Gaborone,EMEA,18,-20.58333000,26.41667000,Dukwe;Makaleng;Masunga,"Dukwe|(-20.58333000,26.41667000);Makaleng|(-20.90000000,27.28333000);Masunga|(-20.62455000,27.44875000)"
+Botswana,BW,North-West,Maun,Gaborone,EMEA,18,-19.98333000,23.41667000,Maun;Nokaneng;Pandamatenga,"Maun|(-19.98333000,23.41667000);Nokaneng|(-19.66667000,22.26667000);Pandamatenga|(-18.52779000,25.62698000)"
+Botswana,BW,South-East,Gaborone,Gaborone,EMEA,18,-24.76234000,25.79950000,Gaborone;Janeng;Kopong,"Gaborone|(-24.76234000,25.79950000);Janeng|(-25.41667000,25.55000000);Kopong|(-24.48333000,25.88333000)"
+Botswana,BW,Southern,Kanye,Gaborone,EMEA,18,-24.96675000,25.33273000,Kanye;Khakhea;Mosopa,"Kanye|(-24.96675000,25.33273000);Khakhea|(-24.68954000,23.49403000);Mosopa|(-24.77180000,25.42156000)"
+Burkina Faso,BF,Balé,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Bam,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Banwa,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Bazèga,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Boucle du Mouhoun,Barani,Ouagadougou,EMEA,11,13.16910000,-3.88990000,Barani;Boromo;Dédougou,"Barani|(13.16910000,-3.88990000);Boromo|(11.74542000,-2.93006000);Dédougou|(12.46338000,-3.46075000)"
+Burkina Faso,BF,Bougouriba,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Boulgou,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Boulkiemde,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Cascades,Banfora,Ouagadougou,EMEA,11,10.63333000,-4.76667000,Banfora;Province de la Comoé;Province de la Léraba,"Banfora|(10.63333000,-4.76667000);Province de la Comoé|(10.33333000,-4.41667000);Province de la Léraba|(10.66667000,-5.20000000)"
+Burkina Faso,BF,Centre,Kadiogo Province,Ouagadougou,EMEA,11,12.33333000,-1.50000000,Kadiogo Province;Ouagadougou,"Kadiogo Province|(12.33333000,-1.50000000);Ouagadougou|(12.36566000,-1.53388000)"
+Burkina Faso,BF,Centre-Est,Garango,Ouagadougou,EMEA,11,11.80000000,-0.55056000,Garango;Koupéla;Kouritenga Province,"Garango|(11.80000000,-0.55056000);Koupéla|(12.17864000,-0.35103000);Kouritenga Province|(12.20000000,-0.30000000)"
+Burkina Faso,BF,Centre-Nord,Boulsa,Ouagadougou,EMEA,11,12.66664000,-0.57469000,Boulsa;Kaya;Kongoussi,"Boulsa|(12.66664000,-0.57469000);Kaya|(13.09167000,-1.08444000);Kongoussi|(13.32583000,-1.53472000)"
+Burkina Faso,BF,Centre-Ouest,Goulouré,Ouagadougou,EMEA,11,12.23484000,-1.93394000,Goulouré;Kokologo;Koudougou,"Goulouré|(12.23484000,-1.93394000);Kokologo|(12.19392000,-1.87687000);Koudougou|(12.25263000,-2.36272000)"
+Burkina Faso,BF,Centre-Sud,Bazega Province,Ouagadougou,EMEA,11,11.91667000,-1.50000000,Bazega Province;Kombissiri;Manga,"Bazega Province|(11.91667000,-1.50000000);Kombissiri|(12.06884000,-1.33644000);Manga|(11.66361000,-1.07306000)"
+Burkina Faso,BF,Comoé,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Est,Bogandé,Ouagadougou,EMEA,11,12.97040000,-0.14953000,Bogandé;Diapaga;Fada N'gourma,"Bogandé|(12.97040000,-0.14953000);Diapaga|(12.07305000,1.78838000);Fada N'gourma|(12.06157000,0.35843000)"
+Burkina Faso,BF,Ganzourgou,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Gnagna,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Gourma,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Hauts-Bassins,Bobo-Dioulasso,Ouagadougou,EMEA,11,11.17715000,-4.29790000,Bobo-Dioulasso;Houndé;Province du Houet,"Bobo-Dioulasso|(11.17715000,-4.29790000);Houndé|(11.50000000,-3.51667000);Province du Houet|(11.33333000,-4.25000000)"
+Burkina Faso,BF,Houet,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Ioba,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Kadiogo,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Kénédougou,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Komondjari,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Kompienga,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Kossi,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Koulpélogo,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Kouritenga,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Kourwéogo,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Léraba,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Loroum,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Mouhoun,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Nahouri,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Namentenga,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Nayala,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Nord,Gourcy,Ouagadougou,EMEA,11,13.20776000,-2.35893000,Gourcy;Ouahigouya;Province du Loroum,"Gourcy|(13.20776000,-2.35893000);Ouahigouya|(13.58278000,-2.42158000);Province du Loroum|(13.91667000,-2.16667000)"
+Burkina Faso,BF,Noumbiel,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Oubritenga,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Oudalan,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Passoré,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Plateau-Central,Boussé,Ouagadougou,EMEA,11,12.66121000,-1.89515000,Boussé;Oubritenga;Province du Ganzourgou,"Boussé|(12.66121000,-1.89515000);Oubritenga|(12.66667000,-1.33333000);Province du Ganzourgou|(12.26667000,-0.76667000)"
+Burkina Faso,BF,Poni,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Sahel,Djibo,Ouagadougou,EMEA,11,14.09940000,-1.62554000,Djibo;Dori;Gorom-Gorom,"Djibo|(14.09940000,-1.62554000);Dori|(14.03540000,-0.03450000);Gorom-Gorom|(14.44290000,-0.23468000)"
+Burkina Faso,BF,Sanguié,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Sanmatenga,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Séno,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Sissili,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Soum,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Sourou,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Sud-Ouest,Batié,Ouagadougou,EMEA,11,9.88333000,-2.91667000,Batié;Dano;Diébougou,"Batié|(9.88333000,-2.91667000);Dano|(11.14640000,-3.05784000);Diébougou|(10.96209000,-3.24967000)"
+Burkina Faso,BF,Tapoa,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Tuy,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Yagha,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Yatenga,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Ziro,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Zondoma,,Ouagadougou,EMEA,11,,,,
+Burkina Faso,BF,Zoundwéogo,,Ouagadougou,EMEA,11,,,,
+Burundi,BI,Bubanza,Bubanza,Bujumbura,EMEA,14,-3.08040000,29.39100000,Bubanza,"Bubanza|(-3.08040000,29.39100000)"
+Burundi,BI,Bujumbura Mairie,Bujumbura,Bujumbura,EMEA,14,-3.38193000,29.36142000,Bujumbura,"Bujumbura|(-3.38193000,29.36142000)"
+Burundi,BI,Bujumbura Rural,,Bujumbura,EMEA,14,,,,
+Burundi,BI,Bururi,Bururi,Bujumbura,EMEA,14,-3.94877000,29.62438000,Bururi,"Bururi|(-3.94877000,29.62438000)"
+Burundi,BI,Cankuzo,Cankuzo,Bujumbura,EMEA,14,-3.21860000,30.55280000,Cankuzo,"Cankuzo|(-3.21860000,30.55280000)"
+Burundi,BI,Cibitoke,Cibitoke,Bujumbura,EMEA,14,-2.88690000,29.12480000,Cibitoke,"Cibitoke|(-2.88690000,29.12480000)"
+Burundi,BI,Gitega,Gitega,Bujumbura,EMEA,14,-3.42708000,29.92463000,Gitega,"Gitega|(-3.42708000,29.92463000)"
+Burundi,BI,Karuzi,Karuzi,Bujumbura,EMEA,14,-3.10139000,30.16278000,Karuzi,"Karuzi|(-3.10139000,30.16278000)"
+Burundi,BI,Kayanza,Kayanza,Bujumbura,EMEA,14,-2.92210000,29.62930000,Kayanza,"Kayanza|(-2.92210000,29.62930000)"
+Burundi,BI,Kirundo,Kirundo,Bujumbura,EMEA,14,-2.58450000,30.09590000,Kirundo,"Kirundo|(-2.58450000,30.09590000)"
+Burundi,BI,Makamba,Makamba,Bujumbura,EMEA,14,-4.13480000,29.80400000,Makamba,"Makamba|(-4.13480000,29.80400000)"
+Burundi,BI,Muramvya,Muramvya,Bujumbura,EMEA,14,-3.26820000,29.60790000,Muramvya,"Muramvya|(-3.26820000,29.60790000)"
+Burundi,BI,Muyinga,Muyinga,Bujumbura,EMEA,14,-2.84510000,30.34140000,Muyinga,"Muyinga|(-2.84510000,30.34140000)"
+Burundi,BI,Mwaro,Mwaro,Bujumbura,EMEA,14,-3.51128000,29.70334000,Mwaro,"Mwaro|(-3.51128000,29.70334000)"
+Burundi,BI,Ngozi,Ngozi,Bujumbura,EMEA,14,-2.90750000,29.83060000,Ngozi,"Ngozi|(-2.90750000,29.83060000)"
+Burundi,BI,Rumonge,Rumonge,Bujumbura,EMEA,14,-3.97360000,29.43860000,Rumonge,"Rumonge|(-3.97360000,29.43860000)"
+Burundi,BI,Rutana,Rutana,Bujumbura,EMEA,14,-3.92790000,29.99200000,Rutana,"Rutana|(-3.92790000,29.99200000)"
+Burundi,BI,Ruyigi,Ruyigi,Bujumbura,EMEA,14,-3.47639000,30.24861000,Ruyigi,"Ruyigi|(-3.47639000,30.24861000)"
+Congo,CG,Bouenza,Kayes,Brazzaville,EMEA,17,-4.20493000,13.28608000,Kayes;Madingou,"Kayes|(-4.20493000,13.28608000);Madingou|(-4.15361000,13.55000000)"
+Congo,CG,Brazzaville,Brazzaville,Brazzaville,EMEA,17,-4.26613000,15.28318000,Brazzaville,"Brazzaville|(-4.26613000,15.28318000)"
+Congo,CG,Cuvette,Makoua,Brazzaville,EMEA,17,0.00694000,15.63333000,Makoua;Owando,"Makoua|(0.00694000,15.63333000);Owando|(-0.48193000,15.89988000)"
+Congo,CG,Cuvette-Ouest,Ewo,Brazzaville,EMEA,17,-0.87250000,14.82056000,Ewo,"Ewo|(-0.87250000,14.82056000)"
+Congo,CG,Kouilou,,Brazzaville,EMEA,17,,,,
+Congo,CG,Lékoumou,Sibiti,Brazzaville,EMEA,17,-3.68192000,13.34985000,Sibiti,"Sibiti|(-3.68192000,13.34985000)"
+Congo,CG,Likouala,Impfondo,Brazzaville,EMEA,17,1.61804000,18.05981000,Impfondo,"Impfondo|(1.61804000,18.05981000)"
+Congo,CG,Niari,Dolisie,Brazzaville,EMEA,17,-4.19834000,12.66664000,Dolisie;Mossendjo,"Dolisie|(-4.19834000,12.66664000);Mossendjo|(-2.94968000,12.70423000)"
+Congo,CG,Plateaux,Djambala,Brazzaville,EMEA,17,-2.54472000,14.75333000,Djambala;Gamboma,"Djambala|(-2.54472000,14.75333000);Gamboma|(-1.87639000,15.86444000)"
+Congo,CG,Pointe-Noire,Pointe-Noire,Brazzaville,EMEA,17,-4.77609000,11.86352000,Loandjili;Pointe-Noire,"Loandjili|(-4.75611000,11.85778000);Pointe-Noire|(-4.77609000,11.86352000)"
+Congo,CG,Pool,Kinkala,Brazzaville,EMEA,17,-4.36139000,14.76444000,Kinkala,"Kinkala|(-4.36139000,14.76444000)"
+Congo,CG,Sangha,Ouésso,Brazzaville,EMEA,17,1.61361000,16.05167000,Ouésso;Sémbé,"Ouésso|(1.61361000,16.05167000);Sémbé|(1.64806000,14.58056000)"
+Costa Rica,CR,Alajuela,Alajuela,San Jose,EMEA,13,10.01625000,-84.21163000,Alajuela;Atenas;Bijagua,"Alajuela|(10.01625000,-84.21163000);Atenas|(9.98333000,-84.38333000);Bijagua|(10.73279000,-85.05676000)"
+Costa Rica,CR,Cartago,Cartago,San Jose,EMEA,13,9.86444000,-83.91944000,Alvarado;Cartago;Concepción,"Alvarado|(9.93333000,-83.80000000);Cartago|(9.86444000,-83.91944000);Concepción|(9.93333000,-84.00000000)"
+Costa Rica,CR,Guanacaste,Abangares,San Jose,EMEA,13,10.21667000,-85.00000000,Abangares;Bagaces;Belén,"Abangares|(10.21667000,-85.00000000);Bagaces|(10.50000000,-85.25000000);Belén|(10.40789000,-85.58836000)"
+Costa Rica,CR,Heredia,Heredia,San Jose,EMEA,13,10.00236000,-84.11651000,Ángeles;Barva;Belén,"Ángeles|(9.99591000,-84.05126000);Barva|(10.08333000,-84.10000000);Belén|(9.98333000,-84.16667000)"
+Costa Rica,CR,Limón,Limón,San Jose,EMEA,13,9.99074000,-83.03596000,Batán;Guácimo;Guápiles,"Batán|(10.08354000,-83.33413000);Guácimo|(10.20000000,-83.66667000);Guápiles|(10.21682000,-83.78483000)"
+Costa Rica,CR,Puntarenas,Puntarenas,San Jose,EMEA,13,9.97625000,-84.83836000,Buenos Aires;Canoas;Chacarita,"Buenos Aires|(9.11667000,-83.25000000);Canoas|(8.53305000,-82.83844000);Chacarita|(9.98424000,-84.77892000)"
+Costa Rica,CR,San José,San José,San Jose,EMEA,13,9.93333000,-84.08333000,Acosta;Alajuelita;Aserrí,"Acosta|(9.80000000,-84.20000000);Alajuelita|(9.90000000,-84.10000000);Aserrí|(9.86667000,-84.10000000)"
+Cuba,CU,Artemisa,Artemisa,Havana,EMEA,29,22.81667000,-82.75944000,Alquízar;Artemisa;Bahía Honda,"Alquízar|(22.80517000,-82.58392000);Artemisa|(22.81667000,-82.75944000);Bahía Honda|(22.90332000,-83.15994000)"
+Cuba,CU,Camagüey,Camagüey,Havana,EMEA,29,21.38083000,-77.91694000,Camagüey;El Caney;Esmeralda,"Camagüey|(21.38083000,-77.91694000);El Caney|(21.30000000,-78.48333000);Esmeralda|(21.85139000,-78.11725000)"
+Cuba,CU,Ciego de Ávila,Ciego de Ávila,Havana,EMEA,29,21.84000000,-78.76194000,Baraguá;Chambas;Ciego de Ávila,"Baraguá|(21.68216000,-78.62567000);Chambas|(22.19534000,-78.91230000);Ciego de Ávila|(21.84000000,-78.76194000)"
+Cuba,CU,Cienfuegos,Cienfuegos,Havana,EMEA,29,22.14957000,-80.44662000,Abreus;Aguada de Pasajeros;Cienfuegos,"Abreus|(22.27797000,-80.56931000);Aguada de Pasajeros|(22.38520000,-80.84792000);Cienfuegos|(22.14957000,-80.44662000)"
+Cuba,CU,Granma,Bartolomé Masó,Havana,EMEA,29,20.16635000,-76.94291000,Bartolomé Masó;Bayamo;Campechuela,"Bartolomé Masó|(20.16635000,-76.94291000);Bayamo|(20.37417000,-76.64361000);Campechuela|(20.23329000,-77.27990000)"
+Cuba,CU,Guantánamo,Guantánamo,Havana,EMEA,29,20.14444000,-75.20917000,Baracoa;Guantánamo;Maisí,"Baracoa|(20.34711000,-74.49624000);Guantánamo|(20.14444000,-75.20917000);Maisí|(20.24673000,-74.15181000)"
+Cuba,CU,Havana,Havana,Havana,EMEA,29,23.13302000,-82.38304000,Alamar;Arroyo Naranjo;Boyeros,"Alamar|(23.15794000,-82.27837000);Arroyo Naranjo|(23.03677000,-82.36937000);Boyeros|(23.00720000,-82.40170000)"
+Cuba,CU,Holguín,Holguín,Havana,EMEA,29,20.88722000,-76.26306000,Banes;Cacocum;Cueto,"Banes|(20.96116000,-75.72200000);Cacocum|(20.73775000,-76.32574000);Cueto|(20.64855000,-75.92967000)"
+Cuba,CU,Isla de la Juventud,Nueva Gerona,Havana,EMEA,29,21.88667000,-82.80556000,Nueva Gerona,"Nueva Gerona|(21.88667000,-82.80556000)"
+Cuba,CU,Las Tunas,Las Tunas,Havana,EMEA,29,20.96167000,-76.95111000,Amancio;Colombia;Jesús Menéndez,"Amancio|(20.81914000,-77.57958000);Colombia|(20.98812000,-77.42598000);Jesús Menéndez|(21.16139000,-76.47919000)"
+Cuba,CU,Matanzas,Matanzas,Havana,EMEA,29,23.04111000,-81.57750000,Alacranes;Bolondrón;Calimete,"Alacranes|(22.76719000,-81.56803000);Bolondrón|(22.76307000,-81.44780000);Calimete|(22.53420000,-80.91105000)"
+Cuba,CU,Mayabeque,Batabanó,Havana,EMEA,29,22.71794000,-82.28965000,Batabanó;Bejucal;Güines,"Batabanó|(22.71794000,-82.28965000);Bejucal|(22.92861000,-82.38861000);Güines|(22.83727000,-82.02641000)"
+Cuba,CU,Pinar del Río,Pinar del Río,Havana,EMEA,29,22.41667000,-83.69667000,Consolación del Sur;Guane;Los Palacios,"Consolación del Sur|(22.50419000,-83.51442000);Guane|(22.20179000,-84.08484000);Los Palacios|(22.58882000,-83.24671000)"
+Cuba,CU,Sancti Spíritus,Sancti Spíritus,Havana,EMEA,29,21.92972000,-79.44250000,Cabaiguán;Condado;Fomento,"Cabaiguán|(22.07874000,-79.49726000);Condado|(21.87670000,-79.84014000);Fomento|(22.10475000,-79.72141000)"
+Cuba,CU,Santiago de Cuba,Santiago de Cuba,Havana,EMEA,29,20.02083000,-75.82667000,Contramaestre;El Cobre;Municipio de Palma Soriano,"Contramaestre|(20.29879000,-76.24511000);El Cobre|(20.04850000,-75.94579000);Municipio de Palma Soriano|(20.20897000,-76.05776000)"
+Cuba,CU,Villa Clara,Caibarién,Havana,EMEA,29,22.51996000,-79.46599000,Caibarién;Calabazar de Sagua;Camajuaní,"Caibarién|(22.51996000,-79.46599000);Calabazar de Sagua|(22.64515000,-79.89510000);Camajuaní|(22.48333000,-79.75000000)"
+Djibouti,DJ,Ali Sabieh,'Ali Sabieh,Djibouti,EMEA,14,11.15583000,42.71250000,'Ali Sabieh;Goubétto;Holhol,"'Ali Sabieh|(11.15583000,42.71250000);Goubétto|(11.42389000,43.00028000);Holhol|(11.31028000,42.92944000)"
+Djibouti,DJ,Arta,Arta,Djibouti,EMEA,14,11.52639000,42.85194000,Arta,"Arta|(11.52639000,42.85194000)"
+Djibouti,DJ,Dikhil,Dikhil,Djibouti,EMEA,14,11.10454000,42.36971000,Dikhil;Gâlâfi,"Dikhil|(11.10454000,42.36971000);Gâlâfi|(11.71583000,41.83611000)"
+Djibouti,DJ,Djibouti,Djibouti,Djibouti,EMEA,14,11.58901000,43.14503000,Djibouti;Loyada,"Djibouti|(11.58901000,43.14503000);Loyada|(11.46111000,43.25278000)"
+Djibouti,DJ,Obock,Obock,Djibouti,EMEA,14,11.96693000,43.28835000,Alaïli Ḏaḏḏa‘;Obock,"Alaïli Ḏaḏḏa‘|(12.42167000,42.89556000);Obock|(11.96693000,43.28835000)"
+Djibouti,DJ,Tadjourah,Tadjourah,Djibouti,EMEA,14,11.78778000,42.88222000,Dorra;Tadjourah,"Dorra|(12.15028000,42.47624000);Tadjourah|(11.78778000,42.88222000)"
+El Salvador,SV,Ahuachapán,Ahuachapán,San Salvador,EMEA,13,13.92139000,-89.84500000,Ahuachapán;Atiquizaya;Concepción de Ataco,"Ahuachapán|(13.92139000,-89.84500000);Atiquizaya|(13.97694000,-89.75250000);Concepción de Ataco|(13.87028000,-89.84861000)"
+El Salvador,SV,Cabañas,Sensuntepeque,San Salvador,EMEA,13,13.86667000,-88.63333000,Sensuntepeque;Victoria,"Sensuntepeque|(13.86667000,-88.63333000);Victoria|(13.95000000,-88.63333000)"
+El Salvador,SV,Chalatenango,Chalatenango,San Salvador,EMEA,13,14.03333000,-88.93333000,Chalatenango;Nueva Concepción,"Chalatenango|(14.03333000,-88.93333000);Nueva Concepción|(14.13333000,-89.30000000)"
+El Salvador,SV,Cuscatlán,Cojutepeque,San Salvador,EMEA,13,13.71667000,-88.93333000,Cojutepeque;San Martín;Suchitoto,"Cojutepeque|(13.71667000,-88.93333000);San Martín|(13.78333000,-88.91667000);Suchitoto|(13.93806000,-89.02778000)"
+El Salvador,SV,La Libertad,La Libertad,San Salvador,EMEA,13,13.48833000,-89.32222000,Antiguo Cuscatlán;Ciudad Arce;La Libertad,"Antiguo Cuscatlán|(13.66492000,-89.25319000);Ciudad Arce|(13.84028000,-89.44722000);La Libertad|(13.48833000,-89.32222000)"
+El Salvador,SV,La Paz,El Rosario,San Salvador,EMEA,13,13.49778000,-89.02972000,El Rosario;Olocuilta;San Pedro Masahuat,"El Rosario|(13.49778000,-89.02972000);Olocuilta|(13.56972000,-89.11722000);San Pedro Masahuat|(13.54361000,-89.03861000)"
+El Salvador,SV,La Unión ,La Unión,San Salvador,EMEA,13,13.33694000,-87.84389000,Anamorós;Conchagua;Intipucá,"Anamorós|(13.74056000,-87.87361000);Conchagua|(13.30778000,-87.86472000);Intipucá|(13.19694000,-88.05444000)"
+El Salvador,SV,Morazán,Cacaopera,San Salvador,EMEA,13,13.76667000,-88.08333000,Cacaopera;Corinto;Guatajiagua,"Cacaopera|(13.76667000,-88.08333000);Corinto|(13.81083000,-87.97139000);Guatajiagua|(13.66667000,-88.20000000)"
+El Salvador,SV,San Miguel,San Miguel,San Salvador,EMEA,13,13.48333000,-88.18333000,Chapeltique;Chinameca;Chirilagua,"Chapeltique|(13.63333000,-88.26667000);Chinameca|(13.50000000,-88.35000000);Chirilagua|(13.22028000,-88.13861000)"
+El Salvador,SV,San Salvador,San Salvador,San Salvador,EMEA,13,13.68935000,-89.18718000,Aguilares;Apopa;Ayutuxtepeque,"Aguilares|(13.95722000,-89.18972000);Apopa|(13.80722000,-89.17917000);Ayutuxtepeque|(13.74556000,-89.20639000)"
+El Salvador,SV,San Vicente,San Vicente,San Salvador,EMEA,13,13.63333000,-88.80000000,Apastepeque;San Sebastián;San Vicente,"Apastepeque|(13.66667000,-88.78333000);San Sebastián|(13.73333000,-88.83333000);San Vicente|(13.63333000,-88.80000000)"
+El Salvador,SV,Santa Ana,Santa Ana,San Salvador,EMEA,13,13.99417000,-89.55972000,Candelaria de La Frontera;Chalchuapa;Coatepeque,"Candelaria de La Frontera|(14.11667000,-89.65000000);Chalchuapa|(13.98667000,-89.68111000);Coatepeque|(13.92861000,-89.50417000)"
+El Salvador,SV,Sonsonate,Sonsonate,San Salvador,EMEA,13,13.71889000,-89.72417000,Acajutla;Armenia;Izalco,"Acajutla|(13.59278000,-89.82750000);Armenia|(13.74361000,-89.49889000);Izalco|(13.74472000,-89.67306000)"
+El Salvador,SV,Usulután,Usulután,San Salvador,EMEA,13,13.35000000,-88.45000000,Berlín;Concepción Batres;Jiquilisco,"Berlín|(13.50000000,-88.53333000);Concepción Batres|(13.35000000,-88.36667000);Jiquilisco|(13.31667000,-88.58333000)"
+Eswatini,SZ,Hhohho,Bulembu,Mbabane,EMEA,18,-25.96667000,31.13333000,Bulembu;Hhukwini;Lobamba,"Bulembu|(-25.96667000,31.13333000);Hhukwini|(-26.31972000,31.22222000);Lobamba|(-26.46667000,31.20000000)"
+Eswatini,SZ,Lubombo,Big Bend,Mbabane,EMEA,18,-26.81667000,31.93333000,Big Bend;Dvokodvweni Inkhundla;Lomashasha,"Big Bend|(-26.81667000,31.93333000);Dvokodvweni Inkhundla|(-26.45398000,31.76456000);Lomashasha|(-26.06644000,32.00768000)"
+Eswatini,SZ,Manzini,Manzini,Mbabane,EMEA,18,-26.49884000,31.38004000,Bhunya;Ekukhanyeni;Kwaluseni,"Bhunya|(-26.55000000,31.01667000);Ekukhanyeni|(-26.38750000,31.52806000);Kwaluseni|(-26.48333000,31.33333000)"
+Eswatini,SZ,Shiselweni,Hlatikulu,Mbabane,EMEA,18,-26.97917000,31.32444000,Hlatikulu;Hluti;Kubuta,"Hlatikulu|(-26.97917000,31.32444000);Hluti|(-27.21667000,31.61667000);Kubuta|(-26.88333000,31.48333000)"
+Gabon,GA,Estuaire,Cocobeach,Libreville,EMEA,17,1.00019000,9.58229000,Cocobeach;Libreville;Ntoum,"Cocobeach|(1.00019000,9.58229000);Libreville|(0.39241000,9.45356000);Ntoum|(0.39051000,9.76096000)"
+Gabon,GA,Haut-Ogooué,Franceville,Libreville,EMEA,17,-1.63333000,13.58357000,Franceville;Lékoni;Moanda,"Franceville|(-1.63333000,13.58357000);Lékoni|(-1.58431000,14.25905000);Moanda|(-1.56652000,13.19870000)"
+Gabon,GA,Moyen-Ogooué,Lambaréné,Libreville,EMEA,17,-0.70010000,10.24055000,Lambaréné;Ndjolé,"Lambaréné|(-0.70010000,10.24055000);Ndjolé|(-0.17827000,10.76488000)"
+Gabon,GA,Ngounié,Fougamou,Libreville,EMEA,17,-1.21544000,10.58378000,Fougamou;Mbigou;Mimongo,"Fougamou|(-1.21544000,10.58378000);Mbigou|(-1.90046000,11.90600000);Mimongo|(-1.61952000,11.60675000)"
+Gabon,GA,Nyanga,Mayumba,Libreville,EMEA,17,-3.43198000,10.65540000,Mayumba;Tchibanga,"Mayumba|(-3.43198000,10.65540000);Tchibanga|(-2.93323000,10.98178000)"
+Gabon,GA,Ogooué-Ivindo,Booué,Libreville,EMEA,17,-0.09207000,11.93846000,Booué;Makokou;Zadie,"Booué|(-0.09207000,11.93846000);Makokou|(0.57381000,12.86419000);Zadie|(0.92582000,13.90813000)"
+Gabon,GA,Ogooué-Lolo,Koulamoutou,Libreville,EMEA,17,-1.13667000,12.46399000,Koulamoutou;Lastoursville,"Koulamoutou|(-1.13667000,12.46399000);Lastoursville|(-0.81742000,12.70818000)"
+Gabon,GA,Ogooué-Maritime,Gamba,Libreville,EMEA,17,-2.65000000,10.00000000,Gamba;Omboué;Port-Gentil,"Gamba|(-2.65000000,10.00000000);Omboué|(-1.57464000,9.26184000);Port-Gentil|(-0.71933000,8.78151000)"
+Gabon,GA,Woleu-Ntem,Bitam,Libreville,EMEA,17,2.07597000,11.50065000,Bitam;Mitzic;Oyem,"Bitam|(2.07597000,11.50065000);Mitzic|(0.78205000,11.54904000);Oyem|(1.59950000,11.57933000)"
+Ghana,GH,Ahafo,Asunafo North,Accra,EMEA,11,6.81968910,-2.80770500,Asunafo North;Asunafo South;Asutifi North,"Asunafo North|(6.81968910,-2.80770500);Asunafo South|(6.68210000,-2.43997530);Asutifi North|(6.94774860,-2.76757160)"
+Ghana,GH,Ashanti,Agogo,Accra,EMEA,11,6.80004000,-1.08193000,Agogo;Bekwai;Ejura,"Agogo|(6.80004000,-1.08193000);Bekwai|(6.45195000,-1.57866000);Ejura|(7.38558000,-1.35617000)"
+Ghana,GH,Bono,Banda,Accra,EMEA,11,8.14956710,-2.36639500,Banda;Berekum East;Berekum West,"Banda|(8.14956710,-2.36639500);Berekum East|(7.43846190,-2.60295780);Berekum West|(7.43934160,-2.65497050)"
+Ghana,GH,Bono East,Atebubu-Amantin,Accra,EMEA,11,7.70237000,-1.21979430,Atebubu-Amantin;Kintampo North;Kintampo South,"Atebubu-Amantin|(7.70237000,-1.21979430);Kintampo North|(8.39635790,-1.82000070);Kintampo South|(7.98971320,-2.00711150)"
+Ghana,GH,Central,Apam,Accra,EMEA,11,5.28483000,-0.73711000,Apam;Cape Coast;Dunkwa,"Apam|(5.28483000,-0.73711000);Cape Coast|(5.10535000,-1.24660000);Dunkwa|(5.95996000,-1.77792000)"
+Ghana,GH,Eastern,Aburi,Accra,EMEA,11,5.84802000,-0.17449000,Aburi;Akim Oda;Akim Swedru,"Aburi|(5.84802000,-0.17449000);Akim Oda|(5.92665000,-0.98577000);Akim Swedru|(5.89380000,-1.01636000)"
+Ghana,GH,Greater Accra,Accra,Accra,EMEA,11,5.55602000,-0.19690000,Accra;Atsiaman;Dome,"Accra|(5.55602000,-0.19690000);Atsiaman|(5.69775000,-0.32824000);Dome|(5.65003000,-0.23610000)"
+Ghana,GH,North East,Bunkpurugu-Nyakpanduri,Accra,EMEA,11,10.46609170,-0.22711950,Bunkpurugu-Nyakpanduri;Chereponi;East Mamprusi,"Bunkpurugu-Nyakpanduri|(10.46609170,-0.22711950);Chereponi|(10.13827720,0.28242580);East Mamprusi|(10.42931860,-0.53078850)"
+Ghana,GH,Northern,Kpandae,Accra,EMEA,11,8.46885000,-0.01127000,Kpandae;Salaga;Savelugu,"Kpandae|(8.46885000,-0.01127000);Salaga|(8.55083000,-0.51875000);Savelugu|(9.62441000,-0.82530000)"
+Ghana,GH,Oti,Biakoye,Accra,EMEA,11,7.11698690,0.32324300,Biakoye;Jasikan;Kadjebi,"Biakoye|(7.11698690,0.32324300);Jasikan|(7.40940880,0.44301500);Kadjebi|(7.52631920,0.46704770)"
+Ghana,GH,Savannah,Bole,Accra,EMEA,11,9.02996640,-2.50694300,Bole;Central Gonja;East Gonja,"Bole|(9.02996640,-2.50694300);Central Gonja|(8.92784320,-1.95369720);East Gonja|(8.72568400,-1.07135790)"
+Ghana,GH,Upper East,Bawku,Accra,EMEA,11,11.06160000,-0.24169000,Bawku;Bolgatanga;Navrongo,"Bawku|(11.06160000,-0.24169000);Bolgatanga|(10.78556000,-0.85139000);Navrongo|(10.89557000,-1.09210000)"
+Ghana,GH,Upper West,Wa,Accra,EMEA,11,10.06069000,-2.50192000,Wa,"Wa|(10.06069000,-2.50192000)"
+Ghana,GH,Volta,Aflao,Accra,EMEA,11,6.11982000,1.19012000,Aflao;Anloga;Ho,"Aflao|(6.11982000,1.19012000);Anloga|(5.79473000,0.89728000);Ho|(6.60084000,0.47130000)"
+Ghana,GH,Western,Aboso,Accra,EMEA,11,5.36073000,-1.94856000,Aboso;Axim;Bibiani,"Aboso|(5.36073000,-1.94856000);Axim|(4.86641000,-2.24181000);Bibiani|(6.46346000,-2.31938000)"
+Ghana,GH,Western North,Aowin,Accra,EMEA,11,5.82143850,-2.82360430,Aowin;Bia East;Bia West,"Aowin|(5.82143850,-2.82360430);Bia East|(6.81614450,-3.00383950);Bia West|(6.56894170,-3.06628880)"
+Guadeloupe,GP,Basse-Terre,Basse-Terre,Basse-Terre,EMEA,29,15.99916310,-61.74998100,Baie-Mahault;Baillif;Basse-Terre,"Baie-Mahault|(16.24976070,-61.67750720);Baillif|(16.04973310,-61.75705910);Basse-Terre|(15.99916310,-61.74998100)"
+Guadeloupe,GP,Pointe-à-Pitre,Pointe-à-Pitre,Basse-Terre,EMEA,29,16.23313040,-61.56234850,Anse-Bertrand;Capesterre-de-Marie-Galante;Grand-Bourg,"Anse-Bertrand|(16.46681810,-61.55217680);Capesterre-de-Marie-Galante|(15.91763990,-61.27077860);Grand-Bourg|(15.90853800,-61.33406180)"
+Guatemala,GT,Alta Verapaz ,Cahabón,Guatemala City,EMEA,13,15.56667000,-89.81667000,Cahabón;Chahal Guatemala;Chisec,"Cahabón|(15.56667000,-89.81667000);Chahal Guatemala|(15.79122000,-89.60518000);Chisec|(15.81667000,-90.28333000)"
+Guatemala,GT,Baja Verapaz ,Cubulco,Guatemala City,EMEA,13,15.10452000,-90.62871000,Cubulco;El Chol;Granados,"Cubulco|(15.10452000,-90.62871000);El Chol|(14.96055000,-90.48799000);Granados|(14.91649000,-90.52292000)"
+Guatemala,GT,Chimaltenango ,Chimaltenango,Guatemala City,EMEA,13,14.66111000,-90.81944000,Acatenango;Chimaltenango;Comalapa,"Acatenango|(14.55451000,-90.94368000);Chimaltenango|(14.66111000,-90.81944000);Comalapa|(14.74086000,-90.88761000)"
+Guatemala,GT,Chiquimula ,Chiquimula,Guatemala City,EMEA,13,14.80000000,-89.54583000,Camotán;Chiquimula;Concepción Las Minas,"Camotán|(14.82017000,-89.37224000);Chiquimula|(14.80000000,-89.54583000);Concepción Las Minas|(14.52173000,-89.45717000)"
+Guatemala,GT,El Progreso ,El Jícaro,Guatemala City,EMEA,13,14.91667000,-89.90000000,El Jícaro;Guastatoya;Morazán,"El Jícaro|(14.91667000,-89.90000000);Guastatoya|(14.85417000,-90.06944000);Morazán|(14.93278000,-90.14306000)"
+Guatemala,GT,Escuintla ,Escuintla,Guatemala City,EMEA,13,14.30500000,-90.78500000,Escuintla;Guanagazapa;Iztapa,"Escuintla|(14.30500000,-90.78500000);Guanagazapa|(14.22528000,-90.64333000);Iztapa|(13.93333000,-90.70750000)"
+Guatemala,GT,Guatemala ,Amatitlán,Guatemala City,EMEA,13,14.47740000,-90.63489000,Amatitlán;Chinautla;Chuarrancho,"Amatitlán|(14.47740000,-90.63489000);Chinautla|(14.70289000,-90.49983000);Chuarrancho|(14.81794000,-90.51568000)"
+Guatemala,GT,Huehuetenango ,Huehuetenango,Guatemala City,EMEA,13,15.31918000,-91.47241000,Aguacatán;Barillas;Chiantla,"Aguacatán|(15.34222000,-91.31141000);Barillas|(15.80361000,-91.31583000);Chiantla|(15.35484000,-91.45807000)"
+Guatemala,GT,Izabal ,El Estor,Guatemala City,EMEA,13,15.53333000,-89.35000000,El Estor;Lívingston;Los Amates,"El Estor|(15.53333000,-89.35000000);Lívingston|(15.82826000,-88.75039000);Los Amates|(15.25645000,-89.09723000)"
+Guatemala,GT,Jalapa ,Jalapa,Guatemala City,EMEA,13,14.63472000,-89.98889000,Jalapa;Mataquescuintla;Monjas,"Jalapa|(14.63472000,-89.98889000);Mataquescuintla|(14.52917000,-90.18417000);Monjas|(14.50000000,-89.86667000)"
+Guatemala,GT,Jutiapa ,Jutiapa,Guatemala City,EMEA,13,14.29167000,-89.89583000,Agua Blanca;Asunción Mita;Atescatempa,"Agua Blanca|(14.50000000,-89.65000000);Asunción Mita|(14.33083000,-89.71083000);Atescatempa|(14.17444000,-89.74250000)"
+Guatemala,GT,Petén ,Dolores,Guatemala City,EMEA,13,16.51178000,-89.41704000,Dolores;Flores;La Libertad,"Dolores|(16.51178000,-89.41704000);Flores|(16.92258000,-89.89941000);La Libertad|(16.78850000,-90.11698000)"
+Guatemala,GT,Quetzaltenango ,Quetzaltenango,Guatemala City,EMEA,13,14.83472000,-91.51806000,Almolonga;Cabricán;Cajolá,"Almolonga|(14.81591000,-91.49464000);Cabricán|(15.07485000,-91.64800000);Cajolá|(14.92205000,-91.61478000)"
+Guatemala,GT,Quiché ,Canillá,Guatemala City,EMEA,13,15.16549000,-90.85256000,Canillá;Chajul;Chicamán,"Canillá|(15.16549000,-90.85256000);Chajul|(15.48523000,-91.03520000);Chicamán|(15.34786000,-90.79968000)"
+Guatemala,GT,Retalhuleu ,Retalhuleu,Guatemala City,EMEA,13,14.53611000,-91.67778000,Champerico;El Asintal;Municipio de San Felipe,"Champerico|(14.29337000,-91.91214000);El Asintal|(14.59626000,-91.72744000);Municipio de San Felipe|(14.63009000,-91.60261000)"
+Guatemala,GT,Sacatepéquez ,Alotenango,Guatemala City,EMEA,13,14.48028000,-90.80750000,Alotenango;Antigua Guatemala;Ciudad Vieja,"Alotenango|(14.48028000,-90.80750000);Antigua Guatemala|(14.56111000,-90.73444000);Ciudad Vieja|(14.52396000,-90.76308000)"
+Guatemala,GT,San Marcos ,San Marcos,Guatemala City,EMEA,13,14.96389000,-91.79444000,Catarina;Ciudad Tecún Umán;Comitancillo,"Catarina|(14.85354000,-92.07682000);Ciudad Tecún Umán|(14.67737000,-92.14039000);Comitancillo|(15.08937000,-91.74971000)"
+Guatemala,GT,Santa Rosa ,Barberena,Guatemala City,EMEA,13,14.30739000,-90.36156000,Barberena;Casillas;Chiquimulilla,"Barberena|(14.30739000,-90.36156000);Casillas|(14.42222000,-90.24417000);Chiquimulilla|(14.08380000,-90.38547000)"
+Guatemala,GT,Sololá ,Sololá,Guatemala City,EMEA,13,14.77222000,-91.18333000,Concepción;Municipio de Nahualá;Municipio de Panajachel,"Concepción|(14.78417000,-91.14754000);Municipio de Nahualá|(14.77548000,-91.41616000);Municipio de Panajachel|(14.74676000,-91.14935000)"
+Guatemala,GT,Suchitepéquez ,Chicacao,Guatemala City,EMEA,13,14.54295000,-91.32636000,Chicacao;Cuyotenango;Mazatenango,"Chicacao|(14.54295000,-91.32636000);Cuyotenango|(14.54006000,-91.57179000);Mazatenango|(14.53417000,-91.50333000)"
+Guatemala,GT,Totonicapán ,Totonicapán,Guatemala City,EMEA,13,14.91167000,-91.36111000,Momostenango;Municipio de Momostenango;Municipio de Santa María Chiquimula,"Momostenango|(15.04437000,-91.40864000);Municipio de Momostenango|(15.04726000,-91.40625000);Municipio de Santa María Chiquimula|(15.02886000,-91.32917000)"
+Guatemala,GT,Zacapa,,Guatemala City,EMEA,13,,,,
+Guyana,GY,Barima-Waini,Mabaruma,Georgetown,EMEA,5,8.20000000,-59.78333000,Mabaruma,"Mabaruma|(8.20000000,-59.78333000)"
+Guyana,GY,Cuyuni-Mazaruni,Bartica,Georgetown,EMEA,5,6.40799000,-58.62192000,Bartica,"Bartica|(6.40799000,-58.62192000)"
+Guyana,GY,Demerara-Mahaica,Georgetown,Georgetown,EMEA,5,6.80448000,-58.15527000,Georgetown;Mahaica Village,"Georgetown|(6.80448000,-58.15527000);Mahaica Village|(6.68405000,-57.92181000)"
+Guyana,GY,East Berbice-Corentyne,New Amsterdam,Georgetown,EMEA,5,6.24793000,-57.51710000,New Amsterdam;Skeldon,"New Amsterdam|(6.24793000,-57.51710000);Skeldon|(5.88333000,-57.13333000)"
+Guyana,GY,Essequibo Islands-West Demerara,Parika,Georgetown,EMEA,5,6.83712000,-58.42941000,Parika;Vreed-en-Hoop,"Parika|(6.83712000,-58.42941000);Vreed-en-Hoop|(6.80927000,-58.19798000)"
+Guyana,GY,Mahaica-Berbice,Mahaicony Village,Georgetown,EMEA,5,6.57633000,-57.80486000,Mahaicony Village;Rosignol,"Mahaicony Village|(6.57633000,-57.80486000);Rosignol|(6.27095000,-57.53697000)"
+Guyana,GY,Pomeroon-Supenaam,Anna Regina,Georgetown,EMEA,5,7.26439000,-58.50769000,Anna Regina,"Anna Regina|(7.26439000,-58.50769000)"
+Guyana,GY,Potaro-Siparuni,Mahdia,Georgetown,EMEA,5,5.26667000,-59.15000000,Mahdia,"Mahdia|(5.26667000,-59.15000000)"
+Guyana,GY,Upper Demerara-Berbice,Linden,Georgetown,EMEA,5,6.00809000,-58.30714000,Linden,"Linden|(6.00809000,-58.30714000)"
+Guyana,GY,Upper Takutu-Upper Essequibo,Lethem,Georgetown,EMEA,5,3.38333000,-59.80000000,Lethem,"Lethem|(3.38333000,-59.80000000)"
+Honduras,HN,Atlántida,Arizona,Tegucigalpa,EMEA,13,15.63333000,-87.31667000,Arizona;Atenas de San Cristóbal;Corozal,"Arizona|(15.63333000,-87.31667000);Atenas de San Cristóbal|(15.68333000,-87.31667000);Corozal|(15.80000000,-86.71667000)"
+Honduras,HN,Bay Islands,Coxen Hole,Tegucigalpa,EMEA,13,16.31759000,-86.53793000,Coxen Hole;French Harbor;Guanaja,"Coxen Hole|(16.31759000,-86.53793000);French Harbor|(16.35000000,-86.43333000);Guanaja|(16.44795000,-85.89431000)"
+Honduras,HN,Choluteca,Choluteca,Tegucigalpa,EMEA,13,13.28261000,-87.20119000,Apacilagua;Choluteca;Ciudad Choluteca,"Apacilagua|(13.45821000,-87.01122000);Choluteca|(13.28261000,-87.20119000);Ciudad Choluteca|(13.30028000,-87.19083000)"
+Honduras,HN,Colón,Balfate,Tegucigalpa,EMEA,13,15.75709000,-86.29048000,Balfate;Bonito Oriental;Corocito,"Balfate|(15.75709000,-86.29048000);Bonito Oriental|(15.74641000,-85.73610000);Corocito|(15.75000000,-85.78333000)"
+Honduras,HN,Comayagua,Comayagua,Tegucigalpa,EMEA,13,14.48412000,-87.60060000,Aguas del Padre;Ajuterique;Cerro Blanco,"Aguas del Padre|(14.56667000,-87.88333000);Ajuterique|(14.38333000,-87.70000000);Cerro Blanco|(14.66667000,-87.78333000)"
+Honduras,HN,Copán,Copán,Tegucigalpa,EMEA,13,14.83333000,-89.15000000,Agua Caliente;Buenos Aires;Cabañas,"Agua Caliente|(14.88333000,-88.81667000);Buenos Aires|(15.03333000,-88.96667000);Cabañas|(14.76000000,-89.06000000)"
+Honduras,HN,Cortés,Agua Azul,Tegucigalpa,EMEA,13,14.91667000,-87.96667000,Agua Azul;Agua Azul Rancho;Armenta,"Agua Azul|(14.91667000,-87.96667000);Agua Azul Rancho|(14.90000000,-87.95000000);Armenta|(15.50000000,-88.05000000)"
+Honduras,HN,El Paraíso,El Paraíso,Tegucigalpa,EMEA,13,13.85381000,-86.53094000,Alauca;Araulí;Cuyalí,"Alauca|(13.84020000,-86.69526000);Araulí|(13.95000000,-86.55000000);Cuyalí|(13.88333000,-86.55000000)"
+Honduras,HN,Francisco Morazán,Agalteca,Tegucigalpa,EMEA,13,14.45000000,-87.26667000,Agalteca;Alubarén;Cedros,"Agalteca|(14.45000000,-87.26667000);Alubarén|(13.78226000,-87.46990000);Cedros|(14.50464000,-87.21680000)"
+Honduras,HN,Gracias a Dios,Ahuas,Tegucigalpa,EMEA,13,15.46923000,-84.34479000,Ahuas;Auas;Auka,"Ahuas|(15.46923000,-84.34479000);Auas|(15.48333000,-84.33333000);Auka|(14.94087000,-83.83229000)"
+Honduras,HN,Intibucá,Intibucá,Tegucigalpa,EMEA,13,14.43000000,-88.17000000,Camasca;Colomoncagua;Concepción,"Camasca|(14.00000000,-88.38333000);Colomoncagua|(13.97245000,-88.27673000);Concepción|(14.04725000,-88.31942000)"
+Honduras,HN,La Paz,La Paz,Tegucigalpa,EMEA,13,14.31944000,-87.67917000,Aguanqueterique;Cabañas;Cane,"Aguanqueterique|(13.98606000,-87.64622000);Cabañas|(13.99419000,-88.02864000);Cane|(14.28333000,-87.66667000)"
+Honduras,HN,Lempira,Belén,Tegucigalpa,EMEA,13,14.50834000,-88.42819000,Belén;Candelaria;Cololaca,"Belén|(14.50834000,-88.42819000);Candelaria|(14.06072000,-88.55913000);Cololaca|(14.31189000,-88.87720000)"
+Honduras,HN,Ocotepeque,Antigua Ocotepeque,Tegucigalpa,EMEA,13,14.40000000,-89.20000000,Antigua Ocotepeque;Belén Gualcho;Concepción,"Antigua Ocotepeque|(14.40000000,-89.20000000);Belén Gualcho|(14.48333000,-88.80000000);Concepción|(14.52383000,-89.19371000)"
+Honduras,HN,Olancho,Arimís,Tegucigalpa,EMEA,13,14.78333000,-86.00000000,Arimís;Campamento;Catacamas,"Arimís|(14.78333000,-86.00000000);Campamento|(14.55000000,-86.65000000);Catacamas|(14.60384000,-85.54261000)"
+Honduras,HN,Santa Bárbara,Santa Bárbara,Tegucigalpa,EMEA,13,14.91944000,-88.23611000,Agualote;Arada;Atima,"Agualote|(15.33528000,-88.55306000);Arada|(14.85000000,-88.30000000);Atima|(14.93333000,-88.48333000)"
+Honduras,HN,Valle,Agua Fría,Tegucigalpa,EMEA,13,13.46889000,-87.55111000,Agua Fría;Alianza;Amapala,"Agua Fría|(13.46889000,-87.55111000);Alianza|(13.44815000,-87.68643000);Amapala|(13.29222000,-87.65389000)"
+Honduras,HN,Yoro,Yoro,Tegucigalpa,EMEA,13,15.13750000,-87.12778000,Agua Blanca Sur;Arenal;Armenia,"Agua Blanca Sur|(15.25000000,-87.88333000);Arenal|(15.35000000,-86.83333000);Armenia|(15.46667000,-86.36667000)"
+Kenya,KE,Baringo,Baringo,Nairobi,EMEA,14,0.46667000,35.96667000,Baringo;Eldama Ravine;Kabarnet,"Baringo|(0.46667000,35.96667000);Eldama Ravine|(0.05196000,35.72734000);Kabarnet|(0.49194000,35.74303000)"
+Kenya,KE,Bomet,Sotik,Nairobi,EMEA,14,-0.69069000,35.11102000,Sotik;Sotik Post,"Sotik|(-0.69069000,35.11102000);Sotik Post|(-0.78129000,35.34156000)"
+Kenya,KE,Bungoma,Bungoma,Nairobi,EMEA,14,0.56350000,34.56055000,Bungoma;Malikisi;Webuye,"Bungoma|(0.56350000,34.56055000);Malikisi|(0.67694000,34.42167000);Webuye|(0.60040000,34.77119000)"
+Kenya,KE,Busia,Busia,Nairobi,EMEA,14,0.46005000,34.11169000,Busia;Luanda;Lugulu,"Busia|(0.46005000,34.11169000);Luanda|(0.31354000,34.07146000);Lugulu|(0.39337000,34.30399000)"
+Kenya,KE,Elgeyo-Marakwet,Chebiemit,Nairobi,EMEA,14,1.05000000,35.40000000,Chebiemit;Chepkorio;Chesoi,"Chebiemit|(1.05000000,35.40000000);Chepkorio|(0.38330000,35.45000000);Chesoi|(1.15000000,35.65000000)"
+Kenya,KE,Embu,Embu,Nairobi,EMEA,14,-0.53987000,37.45743000,Embu,"Embu|(-0.53987000,37.45743000)"
+Kenya,KE,Garissa,Garissa,Nairobi,EMEA,14,-0.45275000,39.64601000,Garissa,"Garissa|(-0.45275000,39.64601000)"
+Kenya,KE,Homa Bay,Homa Bay,Nairobi,EMEA,14,-0.52731000,34.45714000,Homa Bay;Oyugis;Rachuonyo District,"Homa Bay|(-0.52731000,34.45714000);Oyugis|(-0.50974000,34.73067000);Rachuonyo District|(-0.44000000,34.73900000)"
+Kenya,KE,Isiolo,Isiolo,Nairobi,EMEA,14,0.35462000,37.58218000,Isiolo,"Isiolo|(0.35462000,37.58218000)"
+Kenya,KE,Kajiado,Kajiado,Nairobi,EMEA,14,-1.85238000,36.77683000,Kajiado;Magadi;Ngong,"Kajiado|(-1.85238000,36.77683000);Magadi|(-1.90122000,36.28700000);Ngong|(-1.35270000,36.66990000)"
+Kenya,KE,Kakamega,Kakamega,Nairobi,EMEA,14,0.28422000,34.75229000,Butere;Kakamega;Mumias,"Butere|(0.20694000,34.49006000);Kakamega|(0.28422000,34.75229000);Mumias|(0.33474000,34.48796000)"
+Kenya,KE,Kericho,Kericho,Nairobi,EMEA,14,-0.36774000,35.28314000,Kericho;Kipkelion;Litein,"Kericho|(-0.36774000,35.28314000);Kipkelion|(-0.19982000,35.46735000);Litein|(-0.58249000,35.18969000)"
+Kenya,KE,Kiambu,Kiambu,Nairobi,EMEA,14,-1.17139000,36.83556000,Kiambu;Kikuyu;Limuru,"Kiambu|(-1.17139000,36.83556000);Kikuyu|(-1.24627000,36.66291000);Limuru|(-1.11360000,36.64205000)"
+Kenya,KE,Kilifi,Kilifi,Nairobi,EMEA,14,-3.63045000,39.84992000,Iten;Kapsowar;Kilifi,"Iten|(0.67028000,35.50806000);Kapsowar|(0.97890000,35.55854000);Kilifi|(-3.63045000,39.84992000)"
+Kenya,KE,Kirinyaga,Kerugoya,Nairobi,EMEA,14,-0.49887000,37.28031000,Kerugoya;Sagana,"Kerugoya|(-0.49887000,37.28031000);Sagana|(-0.66806000,37.20875000)"
+Kenya,KE,Kisii,Kisii,Nairobi,EMEA,14,-0.68174000,34.76666000,Kisii;Ogembo,"Kisii|(-0.68174000,34.76666000);Ogembo|(-0.80116000,34.72579000)"
+Kenya,KE,Kisumu,Kisumu,Nairobi,EMEA,14,-0.10221000,34.76171000,Ahero;Kisumu;Muhoroni,"Ahero|(-0.17359000,34.91890000);Kisumu|(-0.10221000,34.76171000);Muhoroni|(-0.15816000,35.19645000)"
+Kenya,KE,Kitui,Kitui,Nairobi,EMEA,14,-1.36696000,38.01055000,Kitui;Mwingi,"Kitui|(-1.36696000,38.01055000);Mwingi|(-0.93605000,38.05955000)"
+Kenya,KE,Kwale,Kwale,Nairobi,EMEA,14,-4.17375000,39.45206000,Gazi;Kinango;Kwale,"Gazi|(-4.42402000,39.50588000);Kinango|(-4.13723000,39.31528000);Kwale|(-4.17375000,39.45206000)"
+Kenya,KE,Laikipia,Nanyuki,Nairobi,EMEA,14,0.00624000,37.07398000,Nanyuki;Nyahururu;Rumuruti,"Nanyuki|(0.00624000,37.07398000);Nyahururu|(0.03813000,36.36339000);Rumuruti|(0.27250000,36.53806000)"
+Kenya,KE,Lamu,Lamu,Nairobi,EMEA,14,-2.27169000,40.90201000,Lamu;Witu,"Lamu|(-2.27169000,40.90201000);Witu|(-2.38892000,40.43827000)"
+Kenya,KE,Machakos,Machakos,Nairobi,EMEA,14,-1.52233000,37.26521000,Athi River;Kangundo;Konza,"Athi River|(-1.45630000,36.97826000);Kangundo|(-1.30342000,37.34813000);Konza|(-1.73947000,37.13195000)"
+Kenya,KE,Makueni,Makueni Boma,Nairobi,EMEA,14,-1.80388000,37.62405000,Makueni Boma;Mtito Andei;Wote,"Makueni Boma|(-1.80388000,37.62405000);Mtito Andei|(-2.68987000,38.16687000);Wote|(-1.78079000,37.62882000)"
+Kenya,KE,Mandera,Mandera,Nairobi,EMEA,14,3.93726000,41.85688000,Mandera,"Mandera|(3.93726000,41.85688000)"
+Kenya,KE,Marsabit,Marsabit,Nairobi,EMEA,14,2.33468000,37.99086000,Marsabit;Moyale,"Marsabit|(2.33468000,37.99086000);Moyale|(3.52661000,39.05610000)"
+Kenya,KE,Meru,Meru,Nairobi,EMEA,14,0.04626000,37.65587000,Maua;Meru,"Maua|(0.23320000,37.94086000);Meru|(0.04626000,37.65587000)"
+Kenya,KE,Migori,Migori,Nairobi,EMEA,14,-1.06343000,34.47313000,Kihancha;Migori,"Kihancha|(-1.19347000,34.61967000);Migori|(-1.06343000,34.47313000)"
+Kenya,KE,Mombasa,Mombasa,Nairobi,EMEA,14,-4.05466000,39.66359000,Mombasa,"Mombasa|(-4.05466000,39.66359000)"
+Kenya,KE,Murang'a,Kangema,Nairobi,EMEA,14,-0.68553000,36.96463000,Kangema;Karuri;Maragua,"Kangema|(-0.68553000,36.96463000);Karuri|(-0.70000000,37.18333000);Maragua|(-0.79602000,37.13292000)"
+Kenya,KE,Nairobi City,Nairobi,Nairobi,EMEA,14,-1.28333000,36.81667000,Nairobi;Pumwani,"Nairobi|(-1.28333000,36.81667000);Pumwani|(-1.28333000,36.85000000)"
+Kenya,KE,Nakuru,Nakuru,Nairobi,EMEA,14,-0.30719000,36.07225000,Kijabe;Molo;Naivasha,"Kijabe|(-0.93334000,36.57233000);Molo|(-0.24849000,35.73194000);Naivasha|(-0.71383000,36.43261000)"
+Kenya,KE,Nandi,Kapsabet,Nairobi,EMEA,14,0.20387000,35.10500000,Kapsabet;Nandi Hills,"Kapsabet|(0.20387000,35.10500000);Nandi Hills|(0.10366000,35.18426000)"
+Kenya,KE,Narok,Narok,Nairobi,EMEA,14,-1.08083000,35.87111000,Narok,"Narok|(-1.08083000,35.87111000)"
+Kenya,KE,Nyamira,Nyamira,Nairobi,EMEA,14,-0.56333000,34.93583000,Keroka;Nyamira,"Keroka|(-0.77612000,34.94678000);Nyamira|(-0.56333000,34.93583000)"
+Kenya,KE,Nyandarua,Ol Kalou,Nairobi,EMEA,14,-0.27088000,36.37917000,Ol Kalou,"Ol Kalou|(-0.27088000,36.37917000)"
+Kenya,KE,Nyeri,Nyeri,Nairobi,EMEA,14,-0.42013000,36.94759000,Naro Moru;Nyeri;Othaya,"Naro Moru|(-0.16357000,37.01773000);Nyeri|(-0.42013000,36.94759000);Othaya|(-0.54655000,36.93178000)"
+Kenya,KE,Samburu,Maralal,Nairobi,EMEA,14,1.09667000,36.69806000,Maralal,"Maralal|(1.09667000,36.69806000)"
+Kenya,KE,Siaya,Siaya,Nairobi,EMEA,14,0.06070000,34.28806000,Bondo;Siaya;Yala,"Bondo|(0.23522000,34.28086000);Siaya|(0.06070000,34.28806000);Yala|(0.09438000,34.53602000)"
+Kenya,KE,Taita–Taveta,Bura,Nairobi,EMEA,14,-3.50000000,38.30000000,Bura;Chala;Maktau,"Bura|(-3.50000000,38.30000000);Chala|(-3.38330000,37.68330000);Maktau|(-3.40000000,38.13330000)"
+Kenya,KE,Tana River,Hola,Nairobi,EMEA,14,-1.48256000,40.03341000,Hola;Kipini,"Hola|(-1.48256000,40.03341000);Kipini|(-2.52565000,40.52620000)"
+Kenya,KE,Tharaka-Nithi,Chuka,Nairobi,EMEA,14,-0.33316000,37.64587000,Chuka,"Chuka|(-0.33316000,37.64587000)"
+Kenya,KE,Trans Nzoia,Kitale,Nairobi,EMEA,14,1.01572000,35.00622000,Kitale,"Kitale|(1.01572000,35.00622000)"
+Kenya,KE,Turkana,Lodwar,Nairobi,EMEA,14,3.11988000,35.59642000,Lodwar,"Lodwar|(3.11988000,35.59642000)"
+Kenya,KE,Uasin Gishu,Eldoret,Nairobi,EMEA,14,0.52036000,35.26993000,Eldoret,"Eldoret|(0.52036000,35.26993000)"
+Kenya,KE,Vihiga,Chavakali,Nairobi,EMEA,14,0.11670000,34.70000000,Chavakali;Esabalu;Gambogi,"Chavakali|(0.11670000,34.70000000);Esabalu|(0.01670000,34.61670000);Gambogi|(0.08330000,34.80000000)"
+Kenya,KE,Wajir,Wajir,Nairobi,EMEA,14,1.74710000,40.05732000,Wajir,"Wajir|(1.74710000,40.05732000)"
+Kenya,KE,West Pokot,Chepareria,Nairobi,EMEA,14,1.30583000,35.20365000,Chepareria;Kapenguria;Taveta,"Chepareria|(1.30583000,35.20365000);Kapenguria|(1.23889000,35.11194000);Taveta|(-3.39879000,37.68336000)"
+Lesotho,LS,Berea,Teyateyaneng,Maseru,EMEA,18,-29.14719000,27.74895000,Teyateyaneng,"Teyateyaneng|(-29.14719000,27.74895000)"
+Lesotho,LS,Butha-Buthe,Butha-Buthe,Maseru,EMEA,18,-28.76659000,28.24937000,Butha-Buthe,"Butha-Buthe|(-28.76659000,28.24937000)"
+Lesotho,LS,Leribe,Leribe,Maseru,EMEA,18,-28.87185000,28.04501000,Leribe;Maputsoe,"Leribe|(-28.87185000,28.04501000);Maputsoe|(-28.88660000,27.89915000)"
+Lesotho,LS,Mafeteng,Mafeteng,Maseru,EMEA,18,-29.82299000,27.23744000,Mafeteng,"Mafeteng|(-29.82299000,27.23744000)"
+Lesotho,LS,Maseru,Maseru,Maseru,EMEA,18,-29.31667000,27.48333000,Maseru;Nako,"Maseru|(-29.31667000,27.48333000);Nako|(-29.61667000,27.76667000)"
+Lesotho,LS,Mohale's Hoek,Mohale’s Hoek,Maseru,EMEA,18,-30.15137000,27.47691000,Mohale’s Hoek,"Mohale’s Hoek|(-30.15137000,27.47691000)"
+Lesotho,LS,Mokhotlong,Mokhotlong,Maseru,EMEA,18,-29.28939000,29.06751000,Mokhotlong,"Mokhotlong|(-29.28939000,29.06751000)"
+Lesotho,LS,Qacha's Nek,Qacha’s Nek,Maseru,EMEA,18,-30.11537000,28.68936000,Qacha’s Nek,"Qacha’s Nek|(-30.11537000,28.68936000)"
+Lesotho,LS,Quthing,Quthing,Maseru,EMEA,18,-30.40001000,27.70027000,Quthing,"Quthing|(-30.40001000,27.70027000)"
+Lesotho,LS,Thaba-Tseka,Thaba-Tseka,Maseru,EMEA,18,-29.52204000,28.60840000,Thaba-Tseka,"Thaba-Tseka|(-29.52204000,28.60840000)"
+Madagascar,MG,Antananarivo,,Antananarivo,EMEA,14,,,,
+Madagascar,MG,Antsiranana,Ampasimanolotra,Antananarivo,EMEA,14,-18.81667000,49.06667000,Ampasimanolotra;Andovoranto;Mahanoro,"Ampasimanolotra|(-18.81667000,49.06667000);Andovoranto|(-18.95443000,49.10940000);Mahanoro|(-19.90000000,48.80000000)"
+Madagascar,MG,Fianarantsoa,,Antananarivo,EMEA,14,,,,
+Madagascar,MG,Mahajanga,,Antananarivo,EMEA,14,,,,
+Madagascar,MG,Toamasina,,Antananarivo,EMEA,14,,,,
+Madagascar,MG,Toliara,,Antananarivo,EMEA,14,,,,
+Malawi,MW,Balaka,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Blantyre,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Central,Chipoka,Lilongwe,EMEA,14,-13.99329000,34.51566000,Chipoka;Dedza;Dedza District,"Chipoka|(-13.99329000,34.51566000);Dedza|(-14.37790000,34.33322000);Dedza District|(-14.26273000,34.18559000)"
+Malawi,MW,Chikwawa,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Chiradzulu,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Chitipa,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Dedza,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Dowa,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Karonga,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Kasungu,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Likoma,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Lilongwe,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Machinga,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Mangochi,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Mchinji,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Mulanje,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Mwanza,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Mzimba,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Neno,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Nkhata Bay,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Nkhotakota,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Northern,Chitipa,Lilongwe,EMEA,14,-9.70237000,33.26969000,Chitipa;Chitipa District;Karonga,"Chitipa|(-9.70237000,33.26969000);Chitipa District|(-9.92727000,33.42541000);Karonga|(-9.93333000,33.93333000)"
+Malawi,MW,Nsanje,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Ntcheu,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Ntchisi,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Phalombe,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Rumphi,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Salima,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Southern,Balaka,Lilongwe,EMEA,14,-14.97928000,34.95575000,Balaka;Balaka District;Blantyre,"Balaka|(-14.97928000,34.95575000);Balaka District|(-15.04839000,35.05910000);Blantyre|(-15.78499000,35.00854000)"
+Malawi,MW,Thyolo,,Lilongwe,EMEA,14,,,,
+Malawi,MW,Zomba,,Lilongwe,EMEA,14,,,,
+Mali,ML,Bamako,Bamako,Bamako,EMEA,11,12.65000000,-8.00000000,Bamako,"Bamako|(12.65000000,-8.00000000)"
+Mali,ML,Gao,Gao,Bamako,EMEA,11,16.27167000,-0.04472000,Ansongo;Cercle de Bourem;Gao,"Ansongo|(15.65970000,0.50220000);Cercle de Bourem|(17.71192000,-0.34284000);Gao|(16.27167000,-0.04472000)"
+Mali,ML,Kayes,Kayes,Bamako,EMEA,11,14.44693000,-11.44448000,Bafoulabé;Kayes;Kita,"Bafoulabé|(13.80650000,-10.83210000);Kayes|(14.44693000,-11.44448000);Kita|(13.03490000,-9.48950000)"
+Mali,ML,Kidal,Kidal,Bamako,EMEA,11,18.44111000,1.40778000,Abeïbara;Cercle d’Abeïbara;Kidal,"Abeïbara|(19.11667000,1.75000000);Cercle d’Abeïbara|(19.48878000,2.20025000);Kidal|(18.44111000,1.40778000)"
+Mali,ML,Koulikoro,Koulikoro,Bamako,EMEA,11,12.86273000,-7.55985000,Banamba;Kangaba;Kati,"Banamba|(13.54773000,-7.44808000);Kangaba|(11.93333000,-8.41667000);Kati|(12.74409000,-8.07257000)"
+Mali,ML,Ménaka,,Bamako,EMEA,11,,,,
+Mali,ML,Mopti,Mopti,Bamako,EMEA,11,14.48430000,-4.18296000,Bandiagara;Djénné;Douentza,"Bandiagara|(14.35005000,-3.61038000);Djénné|(13.90608000,-4.55332000);Douentza|(15.00155000,-2.94978000)"
+Mali,ML,Ségou,Ségou,Bamako,EMEA,11,13.43170000,-6.21570000,Baroueli;Cercle de San;Ké-Macina,"Baroueli|(13.07489000,-6.57171000);Cercle de San|(13.17895000,-5.01617000);Ké-Macina|(13.96410000,-5.35791000)"
+Mali,ML,Sikasso,Sikasso,Bamako,EMEA,11,11.31755000,-5.66654000,Bougouni;Kolondiéba;Koutiala,"Bougouni|(11.41769000,-7.48323000);Kolondiéba|(11.08943000,-6.89290000);Koutiala|(12.39173000,-5.46421000)"
+Mali,ML,Taoudénit,,Bamako,EMEA,11,,,,
+Mali,ML,Tombouctou,Araouane,Bamako,EMEA,11,18.90476000,-3.52649000,Araouane;Cercle de Goundam;Dire,"Araouane|(18.90476000,-3.52649000);Cercle de Goundam|(18.60035000,-4.99306000);Dire|(16.28017000,-3.31302000)"
+Martinique,MQ,Fort-de-France,Fort-de-France,Fort-de-France,EMEA,29,14.64924180,-61.10984450,Fort-de-France;Le Lamentin;Saint-Joseph,"Fort-de-France|(14.64924180,-61.10984450);Le Lamentin|(14.62308620,-61.03347490);Saint-Joseph|(14.68353400,-61.08186620)"
+Martinique,MQ,La Trinité,La Trinité,Fort-de-France,EMEA,29,14.73804150,-61.02929560,Basse-Pointe;Grand'Rivière;Gros-Morne,"Basse-Pointe|(14.84097080,-61.16485230);Grand'Rivière|(14.84696630,-61.20427640);Gros-Morne|(14.70841840,-61.11271220)"
+Martinique,MQ,Le Marin,Le Marin,Fort-de-France,EMEA,29,14.48221690,-60.90011410,Ducos;Le Diamant;Le François,"Ducos|(14.57854420,-61.00973860);Le Diamant|(14.47680040,-61.05973840);Le François|(14.60928850,-60.97999110)"
+Martinique,MQ,Saint-Pierre,Saint-Pierre,Fort-de-France,EMEA,29,14.77167190,-61.21475010,Bellefontaine;Case-Pilote;Fonds-Saint-Denis,"Bellefontaine|(14.67474760,-61.16653080);Case-Pilote|(14.65933990,-61.15026120);Fonds-Saint-Denis|(14.72275460,-61.16189190)"
+Mayotte,YT,Acoua,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Bandraboua,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Bandrélé,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Boueni,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Chiconi,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Chirongui,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Dembeni,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Dzaoudzi,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Kani Keli,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Koungou,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,M'Tsangamouji,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Mamoudzou,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Mtsamboro,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Ouangani,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Pamandzi,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Sada,,Mamoudzou,EMEA,14,,,,
+Mayotte,YT,Tsingoni,,Mamoudzou,EMEA,14,,,,
+Montserrat,MS,Saint Anthony,,Plymouth,EMEA,29,,,,
+Montserrat,MS,Saint Georges,,Plymouth,EMEA,29,,,,
+Montserrat,MS,Saint Peter,,Plymouth,EMEA,29,,,,
+Mozambique,MZ,Cabo Delgado,Chiure,Maputo,EMEA,14,-13.46665000,39.70317000,Chiure;Mocímboa;Montepuez,"Chiure|(-13.46665000,39.70317000);Mocímboa|(-11.31667000,40.35000000);Montepuez|(-13.12556000,38.99972000)"
+Mozambique,MZ,Gaza,Chibuto,Maputo,EMEA,14,-24.68667000,33.53056000,Chibuto;Chokwé;Macia,"Chibuto|(-24.68667000,33.53056000);Chokwé|(-24.53333000,32.98333000);Macia|(-25.02694000,33.09889000)"
+Mozambique,MZ,Inhambane,Inhambane,Maputo,EMEA,14,-23.86500000,35.38333000,Inhambane;Maxixe,"Inhambane|(-23.86500000,35.38333000);Maxixe|(-23.85972000,35.34722000)"
+Mozambique,MZ,Manica,Chimoio,Maputo,EMEA,14,-19.11639000,33.48333000,Chimoio,"Chimoio|(-19.11639000,33.48333000)"
+Mozambique,MZ,Maputo,Boane District,Maputo,EMEA,14,-26.02900000,32.38900000,Boane District;Concelho de Matola;Magude District,"Boane District|(-26.02900000,32.38900000);Concelho de Matola|(-25.83472000,32.49516000);Magude District|(-25.02389000,32.65150000)"
+Mozambique,MZ,Maputo,Maputo,Maputo,EMEA,14,-25.96553000,32.58322000,KaTembe;Maputo,"KaTembe|(-26.02985000,32.53204000);Maputo|(-25.96553000,32.58322000)"
+Mozambique,MZ,Nampula,Nampula,Maputo,EMEA,14,-15.11646000,39.26660000,António Enes;Ilha de Moçambique;Mutuáli,"António Enes|(-16.23250000,39.90861000);Ilha de Moçambique|(-15.03417000,40.73583000);Mutuáli|(-14.87056000,37.00444000)"
+Mozambique,MZ,Niassa,Cuamba,Maputo,EMEA,14,-14.80306000,36.53722000,Cuamba;Lichinga;Mandimba,"Cuamba|(-14.80306000,36.53722000);Lichinga|(-13.31278000,35.24056000);Mandimba|(-14.35250000,35.65056000)"
+Mozambique,MZ,Sofala,Beira,Maputo,EMEA,14,-19.84361000,34.83889000,Beira;Dondo;Nhamatanda District,"Beira|(-19.84361000,34.83889000);Dondo|(-19.60944000,34.74306000);Nhamatanda District|(-19.34900000,34.26800000)"
+Mozambique,MZ,Tete,Tete,Maputo,EMEA,14,-16.15639000,33.58667000,Tete,"Tete|(-16.15639000,33.58667000)"
+Mozambique,MZ,Zambezia,Alto Molócuè,Maputo,EMEA,14,-15.64932000,37.66384000,Alto Molócuè;Chinde;Quelimane,"Alto Molócuè|(-15.64932000,37.66384000);Chinde|(-18.58111000,36.45861000);Quelimane|(-17.87861000,36.88833000)"
+Nicaragua,NI,Boaco,Boaco,Managua,EMEA,13,12.47224000,-85.65860000,Boaco;Camoapa;San José de los Remates,"Boaco|(12.47224000,-85.65860000);Camoapa|(12.38383000,-85.51277000);San José de los Remates|(12.59750000,-85.76174000)"
+Nicaragua,NI,Carazo,Diriamba,Managua,EMEA,13,11.85812000,-86.23922000,Diriamba;Dolores;El Rosario,"Diriamba|(11.85812000,-86.23922000);Dolores|(11.85672000,-86.21552000);El Rosario|(11.77756000,-86.37374000)"
+Nicaragua,NI,Chinandega,Chinandega,Managua,EMEA,13,12.62937000,-87.13105000,Chichigalpa;Chinandega;Cinco Pinos,"Chichigalpa|(12.57758000,-87.02705000);Chinandega|(12.62937000,-87.13105000);Cinco Pinos|(13.22956000,-86.86808000)"
+Nicaragua,NI,Chontales,Acoyapa,Managua,EMEA,13,11.97028000,-85.17113000,Acoyapa;Comalapa;Cuapa,"Acoyapa|(11.97028000,-85.17113000);Comalapa|(12.28345000,-85.51081000);Cuapa|(12.26875000,-85.38205000)"
+Nicaragua,NI,Estelí,Estelí,Managua,EMEA,13,13.09185000,-86.35384000,Condega;Estelí;La Trinidad,"Condega|(13.36502000,-86.39846000);Estelí|(13.09185000,-86.35384000);La Trinidad|(12.96881000,-86.23534000)"
+Nicaragua,NI,Granada,Granada,Managua,EMEA,13,11.92988000,-85.95602000,Diriá;Diriomo;Granada,"Diriá|(11.88420000,-86.05508000);Diriomo|(11.87631000,-86.05184000);Granada|(11.92988000,-85.95602000)"
+Nicaragua,NI,Jinotega,Jinotega,Managua,EMEA,13,13.09103000,-86.00234000,El Cuá;Jinotega;La Concordia,"El Cuá|(13.41667000,-85.75000000);Jinotega|(13.09103000,-86.00234000);La Concordia|(13.19528000,-86.16659000)"
+Nicaragua,NI,León,León,Managua,EMEA,13,12.43787000,-86.87804000,Achuapa;El Jicaral;El Sauce,"Achuapa|(13.05370000,-86.59004000);El Jicaral|(12.72676000,-86.38057000);El Sauce|(12.88687000,-86.53903000)"
+Nicaragua,NI,Madriz,Las Sabanas,Managua,EMEA,13,13.34302000,-86.62184000,Las Sabanas;Palacagüina;San José de Cusmapa,"Las Sabanas|(13.34302000,-86.62184000);Palacagüina|(13.45566000,-86.40622000);San José de Cusmapa|(13.28841000,-86.65539000)"
+Nicaragua,NI,Managua,Managua,Managua,EMEA,13,12.13282000,-86.25040000,Ciudad Sandino;El Crucero;Managua,"Ciudad Sandino|(12.15889000,-86.34417000);El Crucero|(11.99008000,-86.30954000);Managua|(12.13282000,-86.25040000)"
+Nicaragua,NI,Masaya,Masaya,Managua,EMEA,13,11.97444000,-86.09417000,Catarina;La Concepción;Masatepe,"Catarina|(11.91197000,-86.07383000);La Concepción|(11.93711000,-86.18976000);Masatepe|(11.91445000,-86.14458000)"
+Nicaragua,NI,Matagalpa,Matagalpa,Managua,EMEA,13,12.92559000,-85.91747000,Ciudad Darío;Matagalpa;Matiguás,"Ciudad Darío|(12.73143000,-86.12402000);Matagalpa|(12.92559000,-85.91747000);Matiguás|(12.83734000,-85.46218000)"
+Nicaragua,NI,North Caribbean Coast,Bonanza,Managua,EMEA,13,14.02885000,-84.59103000,Bonanza;Prinzapolka;Puerto Cabezas,"Bonanza|(14.02885000,-84.59103000);Prinzapolka|(13.40708000,-83.56452000);Puerto Cabezas|(14.03507000,-83.38882000)"
+Nicaragua,NI,Nueva Segovia,Ciudad Antigua,Managua,EMEA,13,13.63929030,-86.31189830,Ciudad Antigua;Dipilto;El Jícaro,"Ciudad Antigua|(13.63929030,-86.31189830);Dipilto|(13.72225520,-86.51366060);El Jícaro|(13.72222480,-86.14115420)"
+Nicaragua,NI,Río San Juan,El Almendro,Managua,EMEA,13,11.67859000,-84.70269000,El Almendro;Greytown;Morrito,"El Almendro|(11.67859000,-84.70269000);Greytown|(10.94684000,-83.73467000);Morrito|(11.62118000,-85.08052000)"
+Nicaragua,NI,Rivas,Rivas,Managua,EMEA,13,11.43716000,-85.82632000,Altagracia;Belén;Buenos Aires,"Altagracia|(11.56615000,-85.57840000);Belén|(11.50299000,-85.88935000);Buenos Aires|(11.46916000,-85.81661000)"
+Nicaragua,NI,South Caribbean Coast,Bluefields,Managua,EMEA,13,12.01366000,-83.76353000,Bluefields;Bocana de Paiwas;Corn Island,"Bluefields|(12.01366000,-83.76353000);Bocana de Paiwas|(12.78571000,-85.12269000);Corn Island|(12.17575000,-83.06145000)"
+Niger,NE,Agadez,Agadez,Niamey,EMEA,11,16.97333000,7.99111000,Agadez;Alaghsas;Arlit,"Agadez|(16.97333000,7.99111000);Alaghsas|(17.01870000,8.01680000);Arlit|(18.83409000,7.43327000)"
+Niger,NE,Diffa,Diffa,Niamey,EMEA,11,13.31536000,12.61135000,Département de Diffa;Département de Maïné-Soroa;Département de Nguigmi,"Département de Diffa|(13.66667000,12.50000000);Département de Maïné-Soroa|(13.31206000,12.08321000);Département de Nguigmi|(14.20753000,13.12177000)"
+Niger,NE,Dosso,Dosso,Niamey,EMEA,11,13.04900000,3.19370000,Boboye Department;Département de Dogondoutchi;Département de Dosso,"Boboye Department|(13.08167000,2.91083000);Département de Dogondoutchi|(13.50000000,4.00000000);Département de Dosso|(12.83333000,3.33333000)"
+Niger,NE,Maradi,Maradi,Niamey,EMEA,11,13.50000000,7.10174000,Aguié;Dakoro;Département d’Aguié,"Aguié|(13.50601000,7.77863000);Dakoro|(14.51056000,6.76500000);Département d’Aguié|(13.46976000,7.74219000)"
+Niger,NE,Tahoua,Tahoua,Niamey,EMEA,11,14.88880000,5.26920000,Abalak;Birni N Konni;Bouza,"Abalak|(15.41618000,6.16975000);Birni N Konni|(13.79599000,5.25026000);Bouza|(14.42293000,6.04278000)"
+Niger,NE,Tillabéri,Tillabéri,Niamey,EMEA,11,14.20711000,1.45418000,Ayorou;Balleyara;Département de Filingué,"Ayorou|(14.73075000,0.91739000);Balleyara|(13.72848000,2.87503000);Département de Filingué|(14.31645000,3.23611000)"
+Niger,NE,Zinder,Zinder,Niamey,EMEA,11,13.80716000,8.98810000,Département de Gouré;Département de Kantché;Département de Tânout,"Département de Gouré|(14.01618000,10.14722000);Département de Kantché|(13.40000000,8.60000000);Département de Tânout|(14.75000000,8.33333000)"
+Panama,PA,Bocas del Toro,Bocas del Toro,Panama City,EMEA,13,9.34031000,-82.24204000,Almirante;Barranco;Barranco Adentro,"Almirante|(9.30091000,-82.40180000);Barranco|(9.51984000,-82.70424000);Barranco Adentro|(9.52757000,-82.73344000)"
+Panama,PA,Chiriquí Province,Alanje,Panama City,EMEA,13,8.39791000,-82.55947000,Alanje;Algarrobos Arriba;Alto Boquete,"Alanje|(8.39791000,-82.55947000);Algarrobos Arriba|(8.51550000,-82.42263000);Alto Boquete|(8.73458000,-82.43213000)"
+Panama,PA,Coclé,Coclé,Panama City,EMEA,13,8.45601000,-80.42899000,Aguadulce;Aguas Blancas;Alto de La Estancia,"Aguadulce|(8.24183000,-80.54609000);Aguas Blancas|(8.50351000,-80.31169000);Alto de La Estancia|(8.58792000,-80.18443000)"
+Panama,PA,Colón,Colón,Panama City,EMEA,13,9.35451000,-79.90011000,Buena Vista;Cativá;Coclé del Norte,"Buena Vista|(9.27356000,-79.69551000);Cativá|(9.36218000,-79.83232000);Coclé del Norte|(9.07540000,-80.57177000)"
+Panama,PA,Darién,Boca de Cupé,Panama City,EMEA,13,8.03003000,-77.58978000,Boca de Cupé;Camogantí;Cucunatí,"Boca de Cupé|(8.03003000,-77.58978000);Camogantí|(8.04171000,-77.88682000);Cucunatí|(8.57508000,-78.25671000)"
+Panama,PA,Emberá-Wounaan Comarca,Bayamón,Panama City,EMEA,13,7.96817000,-78.21648000,Bayamón;Cémaco;Corozal,"Bayamón|(7.96817000,-78.21648000);Cémaco|(8.08285000,-77.54210000);Corozal|(8.20108000,-77.59637000)"
+Panama,PA,Guna,Achutupo,Panama City,EMEA,13,9.19827000,-77.98729000,Achutupo;Ailigandí;Cartí Sugdup,"Achutupo|(9.19827000,-77.98729000);Ailigandí|(9.22810000,-78.02778000);Cartí Sugdup|(9.46460000,-78.95931000)"
+Panama,PA,Herrera,Boca de Parita,Panama City,EMEA,13,8.00796000,-80.45320000,Boca de Parita;Cabuya;Cerro Largo,"Boca de Parita|(8.00796000,-80.45320000);Cabuya|(8.03138000,-80.63227000);Cerro Largo|(7.83377000,-80.83168000)"
+Panama,PA,Los Santos,Los Santos,Panama City,EMEA,13,7.93333000,-80.41667000,Agua Buena;Ave María;Bahía Honda,"Agua Buena|(7.83465000,-80.39405000);Ave María|(7.32481000,-80.45361000);Bahía Honda|(7.70517000,-80.45342000)"
+Panama,PA,Ngöbe-Buglé Comarca,Bahía Azul,Panama City,EMEA,13,9.14176000,-81.89425000,Bahía Azul;Besiko;Bisira,"Bahía Azul|(9.14176000,-81.89425000);Besiko|(8.54863000,-82.08980000);Bisira|(8.89553000,-81.85352000)"
+Panama,PA,Panamá,Panamá,Panama City,EMEA,13,8.99360000,-79.51973000,Alcalde Díaz;Ancón;Brujas,"Alcalde Díaz|(9.12016000,-79.55641000);Ancón|(8.96015000,-79.55140000);Brujas|(8.58536000,-78.53008000)"
+Panama,PA,Panamá Oeste,Alto del Espino,Panama City,EMEA,13,8.84213000,-79.84551000,Alto del Espino;Altos de San Francisco;Arenosa,"Alto del Espino|(8.84213000,-79.84551000);Altos de San Francisco|(8.86167000,-79.79000000);Arenosa|(9.03978000,-79.95128000)"
+Panama,PA,Veraguas,Alto de Jesús,Panama City,EMEA,13,8.26152000,-81.48412000,Alto de Jesús;Arenas;Atalaya,"Alto de Jesús|(8.26152000,-81.48412000);Arenas|(7.36865000,-80.86268000);Atalaya|(8.04213000,-80.92528000)"
+Paraguay,PY,Alto Paraguay,Capitán Pablo Lagerenza,Asuncion,EMEA,5,-19.91667000,-60.78333000,Capitán Pablo Lagerenza;Fuerte Olimpo,"Capitán Pablo Lagerenza|(-19.91667000,-60.78333000);Fuerte Olimpo|(-21.04153000,-57.87377000)"
+Paraguay,PY,Alto Paraná,Cedrales,Asuncion,EMEA,5,-25.65668000,-54.72272000,Cedrales;Ciudad del Este;Colonia Minga Porá,"Cedrales|(-25.65668000,-54.72272000);Ciudad del Este|(-25.50972000,-54.61111000);Colonia Minga Porá|(-24.86667000,-54.90000000)"
+Paraguay,PY,Amambay,Bella Vista,Asuncion,EMEA,5,-22.13333000,-56.51667000,Bella Vista;Capitán Bado;Pedro Juan Caballero,"Bella Vista|(-22.13333000,-56.51667000);Capitán Bado|(-23.26667000,-55.53333000);Pedro Juan Caballero|(-22.54722000,-55.73333000)"
+Paraguay,PY,Asuncion,,Asuncion,EMEA,5,,,,
+Paraguay,PY,Boquerón,Colonia Menno,Asuncion,EMEA,5,-22.36667000,-59.81667000,Colonia Menno;Colonia Neuland;Filadelfia,"Colonia Menno|(-22.36667000,-59.81667000);Colonia Neuland|(-22.66667000,-60.11667000);Filadelfia|(-22.33936000,-60.03157000)"
+Paraguay,PY,Caaguazú,Caaguazú,Asuncion,EMEA,5,-25.47104000,-56.01603000,Caaguazú;Carayaó;Cecilio Baez,"Caaguazú|(-25.47104000,-56.01603000);Carayaó|(-25.19750000,-56.39878000);Cecilio Baez|(-25.07158000,-56.24386000)"
+Paraguay,PY,Caazapá,Caazapá,Asuncion,EMEA,5,-26.19583000,-56.36806000,Abaí;Buena Vista;Caazapá,"Abaí|(-26.03333000,-55.93333000);Buena Vista|(-26.18387000,-56.08171000);Caazapá|(-26.19583000,-56.36806000)"
+Paraguay,PY,Canindeyú,Colonia Catuete,Asuncion,EMEA,5,-24.13333000,-54.61667000,Colonia Catuete;Corpus Christi;La Paloma,"Colonia Catuete|(-24.13333000,-54.61667000);Corpus Christi|(-24.08040000,-54.93933000);La Paloma|(-24.12957000,-54.61376000)"
+Paraguay,PY,Central,Areguá,Asuncion,EMEA,5,-25.31250000,-57.38472000,Areguá;Capiatá;Fernando de la Mora,"Areguá|(-25.31250000,-57.38472000);Capiatá|(-25.35520000,-57.44545000);Fernando de la Mora|(-25.33860000,-57.52167000)"
+Paraguay,PY,Concepción,Concepción,Asuncion,EMEA,5,-23.39985000,-57.43236000,Belén;Concepción;Horqueta,"Belén|(-23.46611000,-57.26194000);Concepción|(-23.39985000,-57.43236000);Horqueta|(-23.34278000,-57.05972000)"
+Paraguay,PY,Cordillera,Altos,Asuncion,EMEA,5,-25.26263000,-57.25443000,Altos;Arroyos y Esteros;Atyrá,"Altos|(-25.26263000,-57.25443000);Arroyos y Esteros|(-25.05478000,-57.09873000);Atyrá|(-25.27876000,-57.17192000)"
+Paraguay,PY,Guairá,Colonia Mauricio José Troche,Asuncion,EMEA,5,-25.56667000,-56.28333000,Colonia Mauricio José Troche;Coronel Martínez;Independencia,"Colonia Mauricio José Troche|(-25.56667000,-56.28333000);Coronel Martínez|(-25.75862000,-56.61677000);Independencia|(-25.69100000,-56.26781000)"
+Paraguay,PY,Itapúa,Arquitecto Tomás Romero Pereira,Asuncion,EMEA,5,-26.48333000,-55.25000000,Arquitecto Tomás Romero Pereira;Bella Vista;Capitán Miranda,"Arquitecto Tomás Romero Pereira|(-26.48333000,-55.25000000);Bella Vista|(-27.05000000,-55.55000000);Capitán Miranda|(-27.20000000,-55.80000000)"
+Paraguay,PY,Misiones,Juan de Ayolas,Asuncion,EMEA,5,-27.38662000,-56.84724000,Juan de Ayolas;San Juan Bautista;San Miguel,"Juan de Ayolas|(-27.38662000,-56.84724000);San Juan Bautista|(-26.66944000,-57.14583000);San Miguel|(-26.50000000,-57.05000000)"
+Paraguay,PY,Ñeembucú,Cerrito,Asuncion,EMEA,5,-27.34215000,-57.64119000,Cerrito;General José Eduvigis Díaz;Pilar,"Cerrito|(-27.34215000,-57.64119000);General José Eduvigis Díaz|(-27.20136000,-58.36740000);Pilar|(-26.85874000,-58.30639000)"
+Paraguay,PY,Paraguarí,Paraguarí,Asuncion,EMEA,5,-25.62083000,-57.14722000,Acahay;Caapucú;Carapeguá,"Acahay|(-25.91667000,-57.15000000);Caapucú|(-26.23523000,-57.18212000);Carapeguá|(-25.80000000,-57.23333000)"
+Paraguay,PY,Presidente Hayes,Benjamín Aceval,Asuncion,EMEA,5,-24.96667000,-57.56667000,Benjamín Aceval;Nanawua;Villa Hayes,"Benjamín Aceval|(-24.96667000,-57.56667000);Nanawua|(-25.27930000,-57.70307000);Villa Hayes|(-25.09306000,-57.52361000)"
+Paraguay,PY,San Pedro,Antequera,Asuncion,EMEA,5,-24.08526000,-57.20221000,Antequera;Capiíbary;Colonia Nueva Germania,"Antequera|(-24.08526000,-57.20221000);Capiíbary|(-24.80000000,-56.03333000);Colonia Nueva Germania|(-23.91137000,-56.70091000)"
+Rwanda,RW,Eastern,Kibungo,Kigali,EMEA,14,-2.15970000,30.54270000,Kibungo;Rwamagana,"Kibungo|(-2.15970000,30.54270000);Rwamagana|(-1.94870000,30.43470000)"
+Rwanda,RW,Kigali,Kigali,Kigali,EMEA,14,-1.94995000,30.05885000,Kigali,"Kigali|(-1.94995000,30.05885000)"
+Rwanda,RW,Northern,Byumba,Kigali,EMEA,14,-1.57630000,30.06750000,Byumba;Musanze,"Byumba|(-1.57630000,30.06750000);Musanze|(-1.49984000,29.63497000)"
+Rwanda,RW,Southern,Butare,Kigali,EMEA,14,-2.59667000,29.73944000,Butare;Eglise Catholique Centrale GIKO;Gitarama,"Butare|(-2.59667000,29.73944000);Eglise Catholique Centrale GIKO|(-1.93653000,29.80610000);Gitarama|(-2.07444000,29.75667000)"
+Rwanda,RW,Western,Cyangugu,Kigali,EMEA,14,-2.48460000,28.90750000,Cyangugu;Gisenyi;Kibuye,"Cyangugu|(-2.48460000,28.90750000);Gisenyi|(-1.70278000,29.25639000);Kibuye|(-2.06028000,29.34778000)"
+Seychelles,SC,Anse Boileau,Anse Boileau,Victoria,EMEA,14,-4.71667000,55.48333000,Anse Boileau,"Anse Boileau|(-4.71667000,55.48333000)"
+Seychelles,SC,Anse Royale,Anse Royale,Victoria,EMEA,14,-4.73333000,55.51667000,Anse Royale,"Anse Royale|(-4.73333000,55.51667000)"
+Seychelles,SC,Anse-aux-Pins,,Victoria,EMEA,14,,,,
+Seychelles,SC,Au Cap,,Victoria,EMEA,14,,,,
+Seychelles,SC,Baie Lazare,,Victoria,EMEA,14,,,,
+Seychelles,SC,Baie Sainte Anne,,Victoria,EMEA,14,,,,
+Seychelles,SC,Beau Vallon,Beau Vallon,Victoria,EMEA,14,-4.62091000,55.43015000,Beau Vallon,"Beau Vallon|(-4.62091000,55.43015000)"
+Seychelles,SC,Bel Air,,Victoria,EMEA,14,,,,
+Seychelles,SC,Bel Ombre,Bel Ombre,Victoria,EMEA,14,-4.61667000,55.41667000,Bel Ombre,"Bel Ombre|(-4.61667000,55.41667000)"
+Seychelles,SC,Cascade,Cascade,Victoria,EMEA,14,-4.66667000,55.50000000,Cascade,"Cascade|(-4.66667000,55.50000000)"
+Seychelles,SC,Glacis,,Victoria,EMEA,14,,,,
+Seychelles,SC,Grand'Anse Mahé,,Victoria,EMEA,14,,,,
+Seychelles,SC,Grand'Anse Praslin,,Victoria,EMEA,14,,,,
+Seychelles,SC,La Digue,,Victoria,EMEA,14,,,,
+Seychelles,SC,La Rivière Anglaise,Victoria,Victoria,EMEA,14,-4.62001000,55.45501000,Victoria,"Victoria|(-4.62001000,55.45501000)"
+Seychelles,SC,Les Mamelles,,Victoria,EMEA,14,,,,
+Seychelles,SC,Mont Buxton,,Victoria,EMEA,14,,,,
+Seychelles,SC,Mont Fleuri,,Victoria,EMEA,14,,,,
+Seychelles,SC,Plaisance,,Victoria,EMEA,14,,,,
+Seychelles,SC,Pointe La Rue,,Victoria,EMEA,14,,,,
+Seychelles,SC,Port Glaud,Port Glaud,Victoria,EMEA,14,-4.66667000,55.41667000,Port Glaud,"Port Glaud|(-4.66667000,55.41667000)"
+Seychelles,SC,Roche Caiman,,Victoria,EMEA,14,,,,
+Seychelles,SC,Saint Louis,,Victoria,EMEA,14,,,,
+Seychelles,SC,Takamaka,Takamaka,Victoria,EMEA,14,-4.76667000,55.50000000,Takamaka,"Takamaka|(-4.76667000,55.50000000)"
+Sierra Leone,SL,Eastern,Barma,Freetown,EMEA,11,8.34959000,-11.33059000,Barma;Blama;Boajibu,"Barma|(8.34959000,-11.33059000);Blama|(7.87481000,-11.34548000);Boajibu|(8.18763000,-11.34026000)"
+Sierra Leone,SL,Northern,Alikalia,Freetown,EMEA,11,9.15356000,-11.38712000,Alikalia;Bindi;Binkolo,"Alikalia|(9.15356000,-11.38712000);Bindi|(9.91376000,-11.44669000);Binkolo|(8.95225000,-11.98029000)"
+Sierra Leone,SL,Southern,Baiima,Freetown,EMEA,11,8.10826000,-11.84772000,Baiima;Baoma;Bo,"Baiima|(8.10826000,-11.84772000);Baoma|(7.99344000,-11.71468000);Bo|(7.96472000,-11.73833000)"
+Sierra Leone,SL,Western,Freetown,Freetown,EMEA,11,8.48714000,-13.23560000,Freetown;Hastings;Kent,"Freetown|(8.48714000,-13.23560000);Hastings|(8.37994000,-13.13693000);Kent|(8.33333000,-13.06667000)"
+Suriname,SR,Brokopondo,Brokopondo,Paramaribo,EMEA,5,5.05594000,-54.98043000,Brokopondo;Brownsweg,"Brokopondo|(5.05594000,-54.98043000);Brownsweg|(5.00435000,-55.15333000)"
+Suriname,SR,Commewijne,Mariënburg,Paramaribo,EMEA,5,5.87722000,-55.04322000,Mariënburg;Nieuw Amsterdam,"Mariënburg|(5.87722000,-55.04322000);Nieuw Amsterdam|(5.88573000,-55.08871000)"
+Suriname,SR,Coronie,Totness,Paramaribo,EMEA,5,5.87618000,-56.32572000,Totness,"Totness|(5.87618000,-56.32572000)"
+Suriname,SR,Marowijne,Albina,Paramaribo,EMEA,5,5.49788000,-54.05522000,Albina;Moengo,"Albina|(5.49788000,-54.05522000);Moengo|(5.61411000,-54.40121000)"
+Suriname,SR,Nickerie,Nieuw Nickerie,Paramaribo,EMEA,5,5.92606000,-56.97297000,Nieuw Nickerie;Wageningen,"Nieuw Nickerie|(5.92606000,-56.97297000);Wageningen|(5.76010000,-56.66523000)"
+Suriname,SR,Para,Onverwacht,Paramaribo,EMEA,5,5.58983000,-55.19462000,Onverwacht,"Onverwacht|(5.58983000,-55.19462000)"
+Suriname,SR,Paramaribo,Paramaribo,Paramaribo,EMEA,5,5.86638000,-55.16682000,Paramaribo,"Paramaribo|(5.86638000,-55.16682000)"
+Suriname,SR,Saramacca,Groningen,Paramaribo,EMEA,5,5.80000000,-55.46667000,Groningen,"Groningen|(5.80000000,-55.46667000)"
+Suriname,SR,Sipaliwini,,Paramaribo,EMEA,5,,,,
+Suriname,SR,Wanica,Lelydorp,Paramaribo,EMEA,5,5.70000000,-55.23333000,Lelydorp,"Lelydorp|(5.70000000,-55.23333000)"
+Togo,TG,Centrale,Sokodé,Lome,EMEA,11,8.98333000,1.13333000,Sokodé;Sotouboua;Tchamba,"Sokodé|(8.98333000,1.13333000);Sotouboua|(8.56340000,0.98399000);Tchamba|(9.03333000,1.41667000)"
+Togo,TG,Kara,Kara,Lome,EMEA,11,9.55111000,1.18611000,Bafilo;Bassar;Kandé,"Bafilo|(9.35000000,1.26667000);Bassar|(9.25025000,0.78213000);Kandé|(9.95778000,1.04472000)"
+Togo,TG,Maritime,Aného,Lome,EMEA,11,6.22798000,1.59190000,Aného;Lomé;Tabligbo,"Aného|(6.22798000,1.59190000);Lomé|(6.12874000,1.22154000);Tabligbo|(6.58333000,1.50000000)"
+Togo,TG,Plateaux,Amlamé,Lome,EMEA,11,7.46667000,0.90000000,Amlamé;Atakpamé;Badou,"Amlamé|(7.46667000,0.90000000);Atakpamé|(7.53333000,1.13333000);Badou|(7.58333000,0.60000000)"
+Togo,TG,Savanes,Dapaong,Lome,EMEA,11,10.86225000,0.20762000,Dapaong;Sansanné-Mango,"Dapaong|(10.86225000,0.20762000);Sansanné-Mango|(10.35917000,0.47083000)"
+Uruguay,UY,Artigas,Artigas,Montevideo,EMEA,5,-30.40000000,-56.46667000,Artigas;Baltasar Brum;Bella Unión,"Artigas|(-30.40000000,-56.46667000);Baltasar Brum|(-30.71905000,-57.32596000);Bella Unión|(-30.25966000,-57.59919000)"
+Uruguay,UY,Canelones,Canelones,Montevideo,EMEA,5,-34.52278000,-56.27778000,Aguas Corrientes;Atlántida;Barra de Carrasco,"Aguas Corrientes|(-34.52194000,-56.39361000);Atlántida|(-34.77190000,-55.75840000);Barra de Carrasco|(-34.87722000,-56.02972000)"
+Uruguay,UY,Cerro Largo,Aceguá,Montevideo,EMEA,5,-31.87178000,-54.16351000,Aceguá;Isidoro Noblía;Melo,"Aceguá|(-31.87178000,-54.16351000);Isidoro Noblía|(-31.96218000,-54.12309000);Melo|(-32.37028000,-54.16750000)"
+Uruguay,UY,Colonia,Carmelo,Montevideo,EMEA,5,-34.00023000,-58.28402000,Carmelo;Colonia del Sacramento;Florencio Sánchez,"Carmelo|(-34.00023000,-58.28402000);Colonia del Sacramento|(-34.46262000,-57.83976000);Florencio Sánchez|(-33.87785000,-57.37166000)"
+Uruguay,UY,Durazno,Durazno,Montevideo,EMEA,5,-33.38056000,-56.52361000,Blanquillo;Carlos Reyles;Durazno,"Blanquillo|(-32.76667000,-55.63333000);Carlos Reyles|(-33.05658000,-56.47652000);Durazno|(-33.38056000,-56.52361000)"
+Uruguay,UY,Flores,Trinidad,Montevideo,EMEA,5,-33.51650000,-56.89957000,Trinidad,"Trinidad|(-33.51650000,-56.89957000)"
+Uruguay,UY,Florida,Florida,Montevideo,EMEA,5,-34.09556000,-56.21417000,25 de Agosto;25 de Mayo;Alejandro Gallinal,"25 de Agosto|(-34.41167000,-56.40222000);25 de Mayo|(-34.18917000,-56.33944000);Alejandro Gallinal|(-33.86252000,-55.54264000)"
+Uruguay,UY,Lavalleja,José Batlle y Ordóñez,Montevideo,EMEA,5,-33.46667000,-55.11667000,José Batlle y Ordóñez;José Pedro Varela;Mariscala,"José Batlle y Ordóñez|(-33.46667000,-55.11667000);José Pedro Varela|(-33.45451000,-54.53586000);Mariscala|(-34.04085000,-54.77732000)"
+Uruguay,UY,Maldonado,Maldonado,Montevideo,EMEA,5,-34.90000000,-54.95000000,Aiguá;Maldonado;Pan de Azúcar,"Aiguá|(-34.20498000,-54.75665000);Maldonado|(-34.90000000,-54.95000000);Pan de Azúcar|(-34.77870000,-55.23582000)"
+Uruguay,UY,Montevideo,Montevideo,Montevideo,EMEA,5,-34.90328000,-56.18816000,Aires Puros;Arroyo Seco;Atahualpa,"Aires Puros|(-34.85200000,-56.18300000);Arroyo Seco|(-34.80400000,-56.27700000);Atahualpa|(-34.80900000,-56.23000000)"
+Uruguay,UY,Paysandú,Paysandú,Montevideo,EMEA,5,-32.31710000,-58.08072000,Estación Porvenir;Guichón;Paysandú,"Estación Porvenir|(-32.37085000,-57.85371000);Guichón|(-32.35846000,-57.19778000);Paysandú|(-32.31710000,-58.08072000)"
+Uruguay,UY,Río Negro,Fray Bentos,Montevideo,EMEA,5,-33.11651000,-58.31067000,Fray Bentos;Nuevo Berlín;San Javier,"Fray Bentos|(-33.11651000,-58.31067000);Nuevo Berlín|(-32.97974000,-58.05858000);San Javier|(-32.66523000,-58.13320000)"
+Uruguay,UY,Rivera,Rivera,Montevideo,EMEA,5,-30.90534000,-55.55076000,Minas de Corrales;Rivera;Tranqueras,"Minas de Corrales|(-31.57375000,-55.47075000);Rivera|(-30.90534000,-55.55076000);Tranqueras|(-31.20000000,-55.75000000)"
+Uruguay,UY,Rocha,Rocha,Montevideo,EMEA,5,-34.48333000,-54.33333000,Castillos;Cebollatí;Chui,"Castillos|(-34.19871000,-53.85919000);Cebollatí|(-33.26703000,-53.79425000);Chui|(-33.69792000,-53.45926000)"
+Uruguay,UY,Salto,Salto,Montevideo,EMEA,5,-31.38333000,-57.96667000,Belén;Salto;Villa Constitución,"Belén|(-30.78716000,-57.77577000);Salto|(-31.38333000,-57.96667000);Villa Constitución|(-31.06913000,-57.84946000)"
+Uruguay,UY,San José,Delta del Tigre,Montevideo,EMEA,5,-34.76488000,-56.36450000,Delta del Tigre;Ecilda Paullier;Libertad,"Delta del Tigre|(-34.76488000,-56.36450000);Ecilda Paullier|(-34.35778000,-57.04883000);Libertad|(-34.63459000,-56.61739000)"
+Uruguay,UY,Soriano,Cardona,Montevideo,EMEA,5,-33.87049000,-57.36954000,Cardona;Dolores;José Enrique Rodó,"Cardona|(-33.87049000,-57.36954000);Dolores|(-33.53009000,-58.21701000);José Enrique Rodó|(-33.69618000,-57.53153000)"
+Uruguay,UY,Tacuarembó,Tacuarembó,Montevideo,EMEA,5,-31.71694000,-55.98111000,Curtina;Paso de los Toros;Tacuarembó,"Curtina|(-32.15000000,-56.11667000);Paso de los Toros|(-32.81667000,-56.51667000);Tacuarembó|(-31.71694000,-55.98111000)"
+Uruguay,UY,Treinta y Tres,Treinta y Tres,Montevideo,EMEA,5,-33.23333000,-54.38333000,Santa Clara de Olimar;Treinta y Tres;Vergara,"Santa Clara de Olimar|(-32.92254000,-54.94447000);Treinta y Tres|(-33.23333000,-54.38333000);Vergara|(-32.94419000,-53.93810000)"
+Zimbabwe,ZW,Bulawayo,Bulawayo,Harare,EMEA,14,-20.15000000,28.58333000,Bulawayo,"Bulawayo|(-20.15000000,28.58333000)"
+Zimbabwe,ZW,Harare,Harare,Harare,EMEA,14,-17.82772000,31.05337000,Chitungwiza;Epworth;Harare,"Chitungwiza|(-18.01274000,31.07555000);Epworth|(-17.89000000,31.14750000);Harare|(-17.82772000,31.05337000)"
+Zimbabwe,ZW,Manicaland,Buhera District,Harare,EMEA,14,-19.45658000,31.93156000,Buhera District;Chimanimani;Chimanimani District,"Buhera District|(-19.45658000,31.93156000);Chimanimani|(-19.80000000,32.86667000);Chimanimani District|(-19.78295000,32.73338000)"
+Zimbabwe,ZW,Mashonaland Central,Bindura,Harare,EMEA,14,-17.30192000,31.33056000,Bindura;Bindura District;Centenary,"Bindura|(-17.30192000,31.33056000);Bindura District|(-17.21230000,31.30300000);Centenary|(-16.72289000,31.11462000)"
+Zimbabwe,ZW,Mashonaland East,Beatrice,Harare,EMEA,14,-18.25283000,30.84730000,Beatrice;Chivhu;Goromonzi District,"Beatrice|(-18.25283000,30.84730000);Chivhu|(-19.02112000,30.89218000);Goromonzi District|(-17.80695000,31.36372000)"
+Zimbabwe,ZW,Mashonaland West,Banket,Harare,EMEA,14,-17.38333000,30.40000000,Banket;Chakari;Chegutu,"Banket|(-17.38333000,30.40000000);Chakari|(-18.06294000,29.89246000);Chegutu|(-18.13021000,30.14074000)"
+Zimbabwe,ZW,Masvingo,Masvingo,Harare,EMEA,14,-20.06373000,30.82766000,Bikita District;Chiredzi;Chiredzi District,"Bikita District|(-20.13752000,31.93156000);Chiredzi|(-21.05000000,31.66667000);Chiredzi District|(-21.28585000,31.77039000)"
+Zimbabwe,ZW,Matabeleland North,Binga,Harare,EMEA,14,-17.62027000,27.34139000,Binga;Binga District;Bubi District,"Binga|(-17.62027000,27.34139000);Binga District|(-17.80460000,27.70088000);Bubi District|(-19.52508000,28.67998000)"
+Zimbabwe,ZW,Matabeleland South,Beitbridge,Harare,EMEA,14,-22.21667000,30.00000000,Beitbridge;Beitbridge District;Esigodini,"Beitbridge|(-22.21667000,30.00000000);Beitbridge District|(-21.89829000,30.07409000);Esigodini|(-20.28979000,28.92261000)"
+Zimbabwe,ZW,Midlands,Gokwe,Harare,EMEA,14,-18.20476000,28.93490000,Gokwe;Gweru;Gweru District,"Gokwe|(-18.20476000,28.93490000);Gweru|(-19.45000000,29.81667000);Gweru District|(-19.45665000,29.64495000)"
