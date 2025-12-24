@@ -187,13 +187,13 @@ def create_infra_labour_calc_sheet(wb):
     calc_data = [
         ["Effective Sites / Dev", "Sites/dev × (1 - buffer)", "=Assumptions!B9*(1-Assumptions!B10/100)", "After custom buffer"],
         ["VPS Cost / Year (IDR)", "USD × FX × 12", "=Assumptions!B2*Assumptions!B3*12", "Yearly VPS cost"],
-        ["VPS Cost / Site / Year", "VPS Year / Sites per VPS", "=B2/Assumptions!B4", "Per site yearly"],
-        ["VPS Cost / Site / Month", "VPS Year / Sites / 12", "=B3/12", "Per site monthly"],
+        ["VPS Cost / Site / Year", "VPS Year / Sites per VPS", "=C2/Assumptions!B4", "Per site yearly"],
+        ["VPS Cost / Site / Month", "VPS Year / Sites / 12", "=C3/12", "Per site monthly"],
         ["Labour Cost / Dev / Year", "Salary × 12", "=Assumptions!B7*12", "Per dev yearly"],
-        ["Labour Cost / Site / Month", "Salary / Effective Sites", "=Assumptions!B7/B1", "Per site monthly"],
-        ["Labour Cost / Site / Year", "Monthly × 12", "=B6*12", "Per site yearly"],
+        ["Labour Cost / Site / Month", "Salary / Effective Sites", "=Assumptions!B7/C1", "Per site monthly"],
+        ["Labour Cost / Site / Year", "Monthly × 12", "=C6*12", "Per site yearly"],
         ["Domain Cost / Site / Year", "Total Domain / Sites", "=Assumptions!B11/Assumptions!B4", "Per site yearly"],
-        ["Domain Cost / Site / Month", "Yearly / 12", "=B8/12", "Per site monthly"],
+        ["Domain Cost / Site / Month", "Yearly / 12", "=C8/12", "Per site monthly"],
     ]
     
     for row_idx, row_data in enumerate(calc_data, 2):
@@ -222,10 +222,10 @@ def create_per_site_cost_sheet(wb):
     
     # Data with formulas
     cost_data = [
-        ["VPS (shared)", "=Infra_Labour_Logic!B4", "=Infra_Labour_Logic!B3", "Shared VPS cost"],
+        ["VPS (shared)", "=Infra_Labour_Logic!C4", "=Infra_Labour_Logic!C3", "Shared VPS cost"],
         ["Nylas", "=Assumptions!B6", "=Assumptions!B6*12", "API service per site"],
-        ["Labour (custom incl.)", "=Infra_Labour_Logic!B6", "=Infra_Labour_Logic!B7", "With 30% custom buffer"],
-        ["Domain (shared)", "=Infra_Labour_Logic!B9", "=Infra_Labour_Logic!B8", "Shared domain cost"],
+        ["Labour (custom incl.)", "=Infra_Labour_Logic!C6", "=Infra_Labour_Logic!C7", "With 30% custom buffer"],
+        ["Domain (shared)", "=Infra_Labour_Logic!C9", "=Infra_Labour_Logic!C8", "Shared domain cost"],
         ["TOTAL", "=SUM(B2:B5)", "=SUM(C2:C5)", "Total cost per site"],
     ]
     
@@ -301,7 +301,7 @@ def create_budget_summary_sheet(wb):
     fixed_data = [
         ["Junior Dev (1)", "=Assumptions!B7", "=B3*12", "Fixed manpower"],
         ["Mid Dev (0)", 0, 0, "Not yet needed"],
-        ["VPS (amortized)", "=Infra_Labour_Logic!B2/12", "=Infra_Labour_Logic!B2", "Yearly VPS cost"],
+        ["VPS (amortized)", "=Infra_Labour_Logic!C2/12", "=Infra_Labour_Logic!C2", "Yearly VPS cost"],
         ["Subtotal Fixed", "=SUM(B3:B5)", "=SUM(C3:C5)", ""],
     ]
     
@@ -365,11 +365,11 @@ def create_budget_1_3_years_sheet(wb):
     # Projected data
     projected_data = [
         [1, 12, "=CEILING(B2/Assumptions!B4,1)", "=CEILING(B2/(Assumptions!B9*(1-Assumptions!B10/100)),1)", 0, 
-         "=C2*Infra_Labour_Logic!B2", "=D2*Assumptions!B7*12", "=F2+G2"],
+         "=C2*Infra_Labour_Logic!C2", "=D2*Assumptions!B7*12", "=F2+G2"],
         [2, 30, "=CEILING(B3/Assumptions!B4,1)", "=CEILING(B3/(Assumptions!B9*(1-Assumptions!B10/100)),1)", 1,
-         "=C3*Infra_Labour_Logic!B2", "=D3*Assumptions!B7*12+E3*Assumptions!B8*12", "=F3+G3"],
+         "=C3*Infra_Labour_Logic!C2", "=D3*Assumptions!B7*12+E3*Assumptions!B8*12", "=F3+G3"],
         [3, 60, "=CEILING(B4/Assumptions!B4,1)", "=CEILING(B4/(Assumptions!B9*(1-Assumptions!B10/100)),1)", 2,
-         "=C4*Infra_Labour_Logic!B2", "=D4*Assumptions!B7*12+E4*Assumptions!B8*12", "=F4+G4"],
+         "=C4*Infra_Labour_Logic!C2", "=D4*Assumptions!B7*12+E4*Assumptions!B8*12", "=F4+G4"],
     ]
     
     for row_idx, row_data in enumerate(projected_data, 2):
