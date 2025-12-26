@@ -14,17 +14,26 @@ from datetime import datetime
 # ASSUMPTIONS & CONSTANTS
 # ============================================================================
 
+# ============================================================================
+# RESEARCH-BASED REAL PRICING (2024)
+# ============================================================================
+# Nylas Full Platform: US$ 15/month (Calendar + Email API)
+# Hostinger VPS KVM4: US$ 24.99/month (non-promo/renewal)
+# Domain: Rp 200,000/year per domain
+# Junior Dev: Rp 3,000,000/month (Indonesia market rate)
+# Mid Dev: Rp 6,000,000/month
+
 ASSUMPTIONS = {
     'VPS_KVM4_USD_MONTH': 24.99,
     'USD_TO_IDR': 16690,
     'SITES_PER_VPS': 12,
     'STORAGE_PER_SITE_GB': 5,
-    'NYLAS_COST_PER_SITE_MONTH_IDR': 225000,
+    'NYLAS_COST_PER_SITE_MONTH_IDR': int(15 * 16690),  # US$ 15 × 16,690 = Rp 250,350
     'JUNIOR_DEV_SALARY_MONTH_IDR': 3000000,
     'MID_DEV_SALARY_MONTH_IDR': 6000000,
     'SITES_PER_DEV_OPS': 10,
     'CUSTOM_DEV_BUFFER_PCT': 0.30,
-    'DOMAIN_COST_TOTAL_YEAR_IDR': 800000,
+    'DOMAIN_COST_TOTAL_YEAR_IDR': 800000,  # 4 domains × Rp 200,000
     'DOMAIN_COUNT': 4,
 }
 
